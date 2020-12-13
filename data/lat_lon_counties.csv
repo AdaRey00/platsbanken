@@ -1,0 +1,1880 @@
+municipality,county,municipality_id,county_id,latitude,longitude,hover
+skurup,skåne,1264,12,55.399274,13.600275,skåne skurup
+strängnäs,värmland,0486,4,59.712128,14.202896,värmland strängnäs
+eskilstuna,örebro,0484,4,59.45620400000001,14.880120000000002,örebro eskilstuna
+ånge,gotland,2260,22,57.819483,18.956528,gotland ånge
+ovanåker,gävleborg,2121,21,61.345719,16.000104,gävleborg ovanåker
+mörbylånga,kalmar,0840,8,56.679426,16.529795,kalmar mörbylånga
+alingsås,västra götaland,1489,14,57.980745,12.45817,västra götaland alingsås
+helsingborg,skåne,1283,12,56.128579,12.668427,skåne helsingborg
+uppsala,uppsala,0380,3,59.877306,18.046123,uppsala uppsala
+knivsta,uppsala,0330,3,59.756626,17.763587,uppsala knivsta
+trelleborg,skåne,1287,12,55.454374,13.209501,skåne trelleborg
+nybro,kalmar,0881,8,56.940257,15.913943,kalmar nybro
+karlstad,värmland,1780,17,59.398117000000006,13.608431,värmland karlstad
+uppvidinge,kronoberg,0760,7,56.974271,15.652679999999998,kronoberg uppvidinge
+östhammar,uppsala,0382,3,60.066453,18.078071,uppsala östhammar
+alvesta,kronoberg,0764,7,56.863826,14.44793,kronoberg alvesta
+ale,uppsala,1440,14,59.749985,17.761835,uppsala ale
+stockholm,stockholm,0180,1,59.3334,17.9803,stockholm stockholm
+luleå,norrbotten,2580,25,65.56666700000001,21.783333,norrbotten luleå
+tranemo,västra götaland,1452,14,57.421314,13.294558,västra götaland tranemo
+uddevalla,västra götaland,1485,14,58.311395,11.818407,västra götaland uddevalla
+trelleborg,skåne,1287,12,55.43887700000001,13.318682,skåne trelleborg
+gislaved,jönköping,0662,6,57.282982,13.636821,jönköping gislaved
+aneby,jönköping,0604,6,57.874561,14.75443,jönköping aneby
+ljungby,kronoberg,0781,7,56.82759100000001,13.763888,kronoberg ljungby
+göteborg,västra götaland,1480,14,57.813166,12.118917,västra götaland göteborg
+västervik,kalmar,0883,8,57.700892,16.334360999999998,kalmar västervik
+sundsvall,västernorrland,2281,22,62.373596,17.40904,västernorrland sundsvall
+nässjö,halland,0682,6,57.539118,12.110653,halland nässjö
+landskrona,skåne,1282,12,55.836544,13.019732,skåne landskrona
+luleå,norrbotten,2580,25,65.552552,21.842872,norrbotten luleå
+borås,västra götaland,1490,14,57.650125,13.067945,västra götaland borås
+arboga,västmanland,1984,19,59.394187,15.839664,västmanland arboga
+bollnäs,gävleborg,2183,21,61.473088,16.374964000000002,gävleborg bollnäs
+skara,västra götaland,1495,14,58.362007,13.338056,västra götaland skara
+vara,västra götaland,1470,14,58.24191500000001,12.873894,västra götaland vara
+höganäs,skåne,1284,12,56.273819,12.572109,skåne höganäs
+arjeplog,norrbotten,2506,25,66.38071500000001,17.106845,norrbotten arjeplog
+kristianstad,skåne,1290,12,56.173923,14.289774,skåne kristianstad
+täby,stockholm,0160,1,59.464709,18.129501,stockholm täby
+nyköping,södermanland,0480,4,56.180854,15.586153,södermanland nyköping
+vellinge,skåne,1233,12,55.515525,13.085134,skåne vellinge
+arvidsjaur,norrbotten,2505,25,65.656995,19.345614,norrbotten arvidsjaur
+kungälv,västra götaland,1482,14,57.888471,11.591697,västra götaland kungälv
+arvika,värmland,1784,17,59.654355,12.591622,värmland arvika
+linköping,östergötland,0580,5,58.406696,15.871683,östergötland linköping
+örebro,örebro,1880,18,59.14896,15.474376,örebro örebro
+askersund,örebro,1882,18,58.8355,14.925755,örebro askersund
+landskrona,skåne,1282,12,55.885595,12.947194,skåne landskrona
+göteborg,västra götaland,1480,14,57.646285,11.800211,västra götaland göteborg
+krokom,jämtland,2309,23,63.365034,14.4847,jämtland krokom
+luleå,norrbotten,2580,25,66.109133,22.300143,norrbotten luleå
+avesta,dalarna,2084,20,60.14695500000001,16.182699,dalarna avesta
+skara,västra götaland,1495,14,58.389166,13.574769,västra götaland skara
+ronneby,blekinge,1081,10,56.347209,15.154482000000002,blekinge ronneby
+rättvik,gävleborg,2031,20,60.660842,17.076742000000007,gävleborg rättvik
+strömsund,västernorrland,2313,23,62.273599,17.143122,västernorrland strömsund
+vingåker,örebro,0428,4,58.90527700000001,14.608042,örebro vingåker
+värmdö,västra götaland,0120,1,58.96270500000001,12.277522,västra götaland värmdö
+hässleholm,skåne,1293,12,56.214274,13.846578,skåne hässleholm
+kristianstad,skåne,1290,12,56.075362,14.21103,skåne kristianstad
+österåker,stockholm,0117,1,59.506469,18.468463,stockholm österåker
+linköping,östergötland,0580,5,58.36145,15.853222,östergötland linköping
+jönköping,jönköping,0680,6,57.863142,14.127853,jönköping jönköping
+svedala,gotland,1263,12,57.58849100000001,18.610915,gotland svedala
+västerås,västmanland,1980,19,59.55579300000001,16.504193,västmanland västerås
+kävlinge,skåne,1261,12,55.771661,12.956365,skåne kävlinge
+kävlinge,skåne,1261,12,55.755836,12.905884,skåne kävlinge
+simrishamn,skåne,1291,12,55.59154100000001,14.315296,skåne simrishamn
+norsjö,västerbotten,2417,24,64.021139,19.347257,västerbotten norsjö
+trelleborg,skåne,1287,12,55.36063299999999,13.425184,skåne trelleborg
+bengtsfors,västra götaland,1460,14,59.011644,12.245549,västra götaland bengtsfors
+luleå,norrbotten,2580,25,65.639826,22.239665,norrbotten luleå
+falkenberg,halland,1382,13,56.981516000000006,12.5775,halland falkenberg
+högsby,kalmar,0821,8,57.216667,16.033333,kalmar högsby
+norrköping,östergötland,0581,5,58.59805600000001,16.252222,östergötland norrköping
+gävle,gävleborg,2180,21,60.929064,17.041003,gävleborg gävle
+timrå,västernorrland,2262,22,62.526318,17.373982,västernorrland timrå
+gävle,jämtland,2180,21,62.689571,14.356633,jämtland gävle
+mark,gävleborg,1463,14,61.546404,16.981166,gävleborg mark
+linköping,jämtland,0580,5,62.689571,14.356633,jämtland linköping
+luleå,norrbotten,2580,25,65.568224,22.110145000000006,norrbotten luleå
+nyköping,södermanland,0480,4,58.741404,16.912554,södermanland nyköping
+norrtälje,stockholm,0188,1,59.63953100000001,18.656496,stockholm norrtälje
+nordanstig,gävleborg,2132,21,61.983775,17.058369,gävleborg nordanstig
+staffanstorp,skåne,1230,12,55.67668000000001,13.17336,skåne staffanstorp
+piteå,norrbotten,2581,25,65.307803,21.390501,norrbotten piteå
+hagfors,värmland,1783,17,60.111842,13.567442000000002,värmland hagfors
+söderhamn,gävleborg,2182,21,61.255352,16.832544,gävleborg söderhamn
+åtvidaberg,jämtland,0561,5,62.689571,14.356633,jämtland åtvidaberg
+linköping,östergötland,0580,5,58.233475,15.733218,östergötland linköping
+värmdö,stockholm,0120,1,59.329785,18.431584,stockholm värmdö
+flen,södermanland,0482,4,58.907255000000006,16.638713,södermanland flen
+katrineholm,södermanland,0483,4,59.08786,16.211660000000002,södermanland katrineholm
+kungsbacka,västra götaland,1384,13,57.576997,11.942625,västra götaland kungsbacka
+svalöv,skåne,1214,12,55.882914,12.999087,skåne svalöv
+eslöv,skåne,1285,12,55.962529,13.331781,skåne eslöv
+bengtsfors,västra götaland,1460,14,58.983173,12.246167,västra götaland bengtsfors
+örnsköldsvik,västernorrland,2284,22,63.32287700000001,18.514495,västernorrland örnsköldsvik
+krokom,stockholm,2309,23,59.332728,17.544941,stockholm krokom
+bjurholm,västerbotten,2403,24,63.964237,18.979487,västerbotten bjurholm
+bjuv,skåne,1260,12,56.084298,12.91673,skåne bjuv
+kristianstad,skåne,1290,12,56.11294399999999,14.087109,skåne kristianstad
+hässleholm,skåne,1293,12,56.290441,13.711422,skåne hässleholm
+lomma,skåne,1262,12,55.722186,13.021643,skåne lomma
+sjöbo,skåne,1265,12,55.72310699999999,13.689776,skåne sjöbo
+örnsköldsvik,västernorrland,2284,22,63.203875,18.500273,västernorrland örnsköldsvik
+gagnef,dalarna,2026,20,60.456683,14.727251,dalarna gagnef
+lerum,västra götaland,1441,14,57.87357900000001,12.32805,västra götaland lerum
+gävle,gävleborg,2180,21,60.765938,17.191292999999998,gävleborg gävle
+mark,västra götaland,1463,14,57.42615600000001,12.523757000000002,västra götaland mark
+uppsala,uppsala,0380,3,60.029136,17.551431,uppsala uppsala
+luleå,norrbotten,2580,25,65.61585,22.177784,norrbotten luleå
+katrineholm,södermanland,0483,4,58.839772,16.513832,södermanland katrineholm
+vetlanda,jönköping,0685,6,57.519216,14.905918,jönköping vetlanda
+öckerö,kalmar,1407,14,57.86431,16.656670000000002,kalmar öckerö
+örnsköldsvik,västernorrland,2284,22,63.73584200000001,18.449723,västernorrland örnsköldsvik
+kristinehamn,skåne,1781,17,55.486245,13.385036,skåne kristinehamn
+gnesta,södermanland,0461,4,59.066026,17.159785,södermanland gnesta
+åstorp,västernorrland,1277,12,62.902228,18.346429,västernorrland åstorp
+åre,gävleborg,2321,23,61.302995,17.035888,gävleborg åre
+åtvidaberg,västra götaland,0561,5,58.658272,13.699112,västra götaland åtvidaberg
+uppsala,uppsala,0380,3,59.96305600000001,17.382621,uppsala uppsala
+tjörn,västra götaland,1419,14,57.95325,11.570375,västra götaland tjörn
+sjöbo,skåne,1265,12,55.584158,13.59908,skåne sjöbo
+ulricehamn,västra götaland,1491,14,57.930513,13.493323,västra götaland ulricehamn
+norrtälje,stockholm,0188,1,59.614538,18.901464,stockholm norrtälje
+karlstad,värmland,1780,17,59.606125,13.801258,värmland karlstad
+mönsterås,kalmar,0861,8,56.98457,16.328682999999998,kalmar mönsterås
+piteå,norrbotten,2581,25,65.265284,21.292715,norrbotten piteå
+ludvika,dalarna,2085,20,60.126774,15.058789,dalarna ludvika
+oskarshamn,kalmar,0882,8,57.261836,16.065139000000002,kalmar oskarshamn
+nässjö,jönköping,0682,6,57.505262,14.703379,jönköping nässjö
+rättvik,uppsala,2031,20,59.661106,16.894597,uppsala rättvik
+boden,norrbotten,2582,25,65.8275,21.69641,norrbotten boden
+skellefteå,västerbotten,2482,24,64.867048,20.387333,västerbotten skellefteå
+bollebygd,västra götaland,1443,14,57.744516,12.583187,västra götaland bollebygd
+bollnäs,gävleborg,2183,21,61.318303,16.396793,gävleborg bollnäs
+kramfors,västernorrland,2282,22,62.997142,17.675724,västernorrland kramfors
+mora,dalarna,2062,20,61.071555,14.485860999999998,dalarna mora
+motala,östergötland,0583,5,58.565658,15.280218,östergötland motala
+finspång,östergötland,0562,5,58.730203,15.55899,östergötland finspång
+borgholm,kalmar,0885,8,56.879927,16.656137,kalmar borgholm
+borås,västra götaland,1490,14,57.883805,13.013169,västra götaland borås
+borlänge,dalarna,2081,20,60.48564200000001,15.423456,dalarna borlänge
+simrishamn,skåne,1291,12,55.45803299999999,14.180885,skåne simrishamn
+värnamo,jönköping,0683,6,57.117835,14.156707999999998,jönköping värnamo
+borås,västra götaland,1490,14,57.72108299999999,12.94074,västra götaland borås
+borås,västra götaland,1490,14,57.668333,12.844263,västra götaland borås
+umeå,västerbotten,2480,24,64.253403,20.246195,västerbotten umeå
+jönköping,jönköping,0680,6,57.769513,13.826133,jönköping jönköping
+sotenäs,västra götaland,1427,14,58.474747,11.318806,västra götaland sotenäs
+boxholm,östergötland,0560,5,58.132595,15.127738,östergötland boxholm
+simrishamn,skåne,1291,12,55.515199,14.345963,skåne simrishamn
+lysekil,västra götaland,1484,14,58.382006,11.485181,västra götaland lysekil
+växjö,kronoberg,0780,7,57.059792,15.048356,kronoberg växjö
+borås,västra götaland,1490,14,57.805782,12.902985,västra götaland borås
+värnamo,jönköping,0683,6,57.17410400000001,13.738937,jönköping värnamo
+örnsköldsvik,västernorrland,2284,22,62.198527,17.230967,västernorrland örnsköldsvik
+enköping,västernorrland,0381,3,62.342022,17.372269,västernorrland enköping
+kalix,västernorrland,2514,25,62.481596,16.46089,västernorrland kalix
+gislaved,jönköping,0662,6,57.120231,13.258352,jönköping gislaved
+linköping,östergötland,0580,5,58.218153,15.681462,östergötland linköping
+bromölla,skåne,1272,12,56.07615799999999,14.468173,skåne bromölla
+vallentuna,stockholm,0115,1,59.560959,18.238716,stockholm vallentuna
+upplands-bro,gotland,0139,1,57.669298,18.472247,gotland upplands-bro
+upplands-bro,dalarna,0139,1,60.262222,16.010129,dalarna upplands-bro
+älvdalen,dalarna,2039,20,61.20771600000001,14.119674,dalarna älvdalen
+värmdö,västra götaland,0120,1,57.800682,13.369513,västra götaland värmdö
+eksjö,jönköping,0686,6,57.642463,15.27197,jönköping eksjö
+vänersborg,västra götaland,1487,14,58.563312,12.35074,västra götaland vänersborg
+bräcke,jämtland,2305,23,62.752127,15.41987,jämtland bräcke
+ronneby,blekinge,1081,10,56.22856,15.11694,blekinge ronneby
+luleå,norrbotten,2580,25,65.69538100000001,22.336566,norrbotten luleå
+umeå,västerbotten,2480,24,64.65833,18.453399,västerbotten umeå
+göteborg,västra götaland,1480,14,57.643783,11.771863,västra götaland göteborg
+tomelilla,skåne,1270,12,55.72458100000001,14.104728,skåne tomelilla
+varberg,halland,1383,13,57.237037,12.122481,halland varberg
+kungsbacka,halland,1384,13,57.423823,11.968179,halland kungsbacka
+umeå,västerbotten,2480,24,64.028582,20.483959,västerbotten umeå
+malmö,skåne,1280,12,55.553362,12.915588,skåne malmö
+skellefteå,västerbotten,2482,24,64.61798399999999,21.200493,västerbotten skellefteå
+gotland,gotland,0980,9,57.033211,18.276696,gotland gotland
+burlöv,skåne,1231,12,55.635827,13.101915,skåne burlöv
+gislaved,jönköping,0662,6,57.375451,14.789713,jönköping gislaved
+skellefteå,västerbotten,2482,24,64.51900400000001,20.655786,västerbotten skellefteå
+nyköping,södermanland,0480,4,58.665071,16.942079,södermanland nyköping
+finspång,östergötland,0562,5,58.716322,15.834454999999998,östergötland finspång
+robertsfors,västerbotten,2409,24,64.061088,20.853516,västerbotten robertsfors
+skellefteå,västerbotten,2482,24,64.350669,20.505061,västerbotten skellefteå
+skellefteå,västerbotten,2482,24,64.95450799999999,21.205751,västerbotten skellefteå
+håbo,uppsala,0305,3,59.56821,17.529364,uppsala håbo
+helsingborg,skåne,1283,12,56.011964,12.801899,skåne helsingborg
+båstad,skåne,1278,12,56.426789,12.860715,skåne båstad
+kalix,norrbotten,2514,25,65.780928,23.422138,norrbotten kalix
+kristianstad,skåne,1290,12,56.044299,14.33426,skåne kristianstad
+nybro,kalmar,0881,8,56.88922,16.065362,kalmar nybro
+bengtsfors,västra götaland,1460,14,58.806127,12.159969,västra götaland bengtsfors
+kristinehamn,värmland,1781,17,59.158939,14.190986,värmland kristinehamn
+eskilstuna,södermanland,0484,4,59.249827,16.460741,södermanland eskilstuna
+luleå,norrbotten,2580,25,65.633333,21.933333,norrbotten luleå
+uppsala,uppsala,0380,3,59.948845,17.542984,uppsala uppsala
+uppsala,uppsala,0380,3,59.856685,17.817504,uppsala uppsala
+gagnef,dalarna,2026,20,60.54113100000001,15.207791,dalarna gagnef
+piteå,norrbotten,2581,25,65.386151,21.322539000000006,norrbotten piteå
+gävle,gävleborg,2180,21,60.73613100000001,17.303216,gävleborg gävle
+eda,värmland,1730,17,59.88396,12.30492,värmland eda
+gagnef,dalarna,2026,20,60.50769200000001,14.796729999999998,dalarna gagnef
+haninge,stockholm,0136,1,59.133518,18.405239,stockholm haninge
+lund,skåne,1281,12,55.664663,13.346158,skåne lund
+borås,västra götaland,1490,14,57.721698,13.106962,västra götaland borås
+bengtsfors,västra götaland,1460,14,58.92590500000001,12.306382,västra götaland bengtsfors
+mellerud,västra götaland,1461,14,58.714085,12.355654,västra götaland mellerud
+tranemo,västra götaland,1452,14,57.605573,13.511657,västra götaland tranemo
+ulricehamn,västra götaland,1491,14,57.900296,13.464924,västra götaland ulricehamn
+uppsala,västra götaland,0380,3,57.949937,11.54931,västra götaland uppsala
+östhammar,uppsala,0382,3,60.203273,17.859906,uppsala östhammar
+borås,västra götaland,1490,14,57.688771,13.227560999999998,västra götaland borås
+kristianstad,skåne,1290,12,55.837151,14.089263,skåne kristianstad
+degerfors,örebro,1862,18,59.153172,14.429410999999998,örebro degerfors
+mörbylånga,kalmar,0840,8,56.355521,16.411009,kalmar mörbylånga
+forshaga,värmland,1763,17,59.605939,13.463648,värmland forshaga
+hudiksvall,gävleborg,2184,21,61.800127,16.555885999999994,gävleborg hudiksvall
+munkedal,västra götaland,1430,14,58.527657,11.578637,västra götaland munkedal
+västerås,västmanland,1980,19,59.572402,16.388665,västmanland västerås
+kungälv,västra götaland,1482,14,57.924606,12.028827,västra götaland kungälv
+älmhult,kronoberg,0765,7,56.63938100000001,14.221131,kronoberg älmhult
+sölvesborg,blekinge,1083,10,56.070682,14.721403,blekinge sölvesborg
+leksand,dalarna,2029,20,60.612263,15.00547,dalarna leksand
+gagnef,dalarna,2026,20,60.560541,15.130313,dalarna gagnef
+norrköping,östergötland,0581,5,58.629273,16.347165,östergötland norrköping
+värmdö,västra götaland,0120,1,58.863797,13.470505,västra götaland värmdö
+kramfors,västernorrland,2282,22,63.05732,18.327456,västernorrland kramfors
+helsingborg,skåne,1283,12,56.11969300000001,12.607308,skåne helsingborg
+göteborg,västra götaland,1480,14,57.601575,11.803462,västra götaland göteborg
+dorotea,västerbotten,2425,24,64.46396,16.114732999999998,västerbotten dorotea
+kalmar,kalmar,0880,8,56.779433,16.420263000000002,kalmar kalmar
+ekerö,stockholm,0125,1,59.324925,17.887332,stockholm ekerö
+karlskrona,halland,1080,10,57.501139,11.926259,halland karlskrona
+skellefteå,västerbotten,2482,24,64.917969,20.954582,västerbotten skellefteå
+kalmar,kalmar,0880,8,56.63409100000001,16.265794,kalmar kalmar
+kungälv,västra götaland,1482,14,57.953185,12.018631,västra götaland kungälv
+krokom,jämtland,2309,23,63.302411,14.473199,jämtland krokom
+forshaga,värmland,1763,17,59.514042,13.438148000000002,värmland forshaga
+kävlinge,skåne,1261,12,55.819977,13.030453,skåne kävlinge
+eda,värmland,1730,17,59.921335,12.263376,värmland eda
+arvika,värmland,1784,17,59.62982,12.822921,värmland arvika
+dals-ed,västra götaland,1438,14,58.91258199999999,11.934013,västra götaland dals-ed
+knivsta,uppsala,0330,3,59.811901,17.775823000000006,uppsala knivsta
+norrtälje,stockholm,0188,1,59.895128,18.492378,stockholm norrtälje
+västervik,kalmar,0883,8,58.01957700000001,16.467458999999998,kalmar västervik
+ovanåker,gävleborg,2121,21,61.377442,15.818175,gävleborg ovanåker
+hudiksvall,gävleborg,2184,21,61.77376999999999,17.00371,gävleborg hudiksvall
+karlstad,värmland,1780,17,59.436975,13.210344,värmland karlstad
+skara,västra götaland,1495,14,58.433965,13.645112,västra götaland skara
+örebro,örebro,1880,18,59.25846899999999,15.336875,örebro örebro
+bjuv,skåne,1260,12,56.01666700000001,12.95,skåne bjuv
+kumla,örebro,1881,18,59.166667,15.266667000000002,örebro kumla
+södertälje,stockholm,0181,1,59.183333,17.633333,stockholm södertälje
+tidaholm,uppsala,1498,14,59.990706,17.299305,uppsala tidaholm
+vetlanda,jönköping,0685,6,57.491838,15.020954,jönköping vetlanda
+ekerö,stockholm,0125,1,59.355591,17.622421,stockholm ekerö
+ekerö,stockholm,0125,1,59.276032,17.7345,stockholm ekerö
+örkelljunga,västra götaland,1257,12,58.057464,13.803066,västra götaland örkelljunga
+hagfors,värmland,1783,17,60.174282,13.493761,värmland hagfors
+eksjö,jönköping,0686,6,57.66744300000001,14.973559,jönköping eksjö
+vallentuna,stockholm,0115,1,59.641435,18.231124,stockholm vallentuna
+norrköping,östergötland,0581,5,58.585982,16.091887,östergötland norrköping
+linköping,stockholm,0580,5,59.307174,17.752373000000006,stockholm linköping
+halmstad,halland,1380,13,56.597933,12.985408,halland halmstad
+orust,västra götaland,1421,14,58.17997,11.468747,västra götaland orust
+emmaboda,kalmar,0862,8,56.630833,15.540660999999998,kalmar emmaboda
+hässleholm,skåne,1293,12,56.399826,13.649232,skåne hässleholm
+oskarshamn,skåne,0882,8,56.210123,14.096059,skåne oskarshamn
+vara,västra götaland,1470,14,58.255237,12.999074,västra götaland vara
+säter,dalarna,2082,20,60.411803000000006,15.612191,dalarna säter
+älmhult,kronoberg,0765,7,56.703808,14.338377,kronoberg älmhult
+västerås,västmanland,1980,19,59.56562,16.53183,västmanland västerås
+enköping,uppsala,0381,3,59.635611,17.077856,uppsala enköping
+nyköping,södermanland,0480,4,58.751468,16.854532,södermanland nyköping
+hudiksvall,gävleborg,2184,21,61.54746899999999,17.002246,gävleborg hudiksvall
+emmaboda,kalmar,0862,8,56.73684,15.473637,kalmar emmaboda
+ronneby,blekinge,1081,10,56.440125,15.362501000000002,blekinge ronneby
+skellefteå,västerbotten,2482,24,64.848388,20.898183,västerbotten skellefteå
+umeå,västerbotten,2480,24,64.85,20.9,västerbotten umeå
+luleå,norrbotten,2580,25,65.52905200000001,21.794633,norrbotten luleå
+eskilstuna,södermanland,0484,4,59.371737,16.505147,södermanland eskilstuna
+eslöv,skåne,1285,12,55.837495,13.303626,skåne eslöv
+älvdalen,dalarna,2039,20,61.135109,13.959032,dalarna älvdalen
+kristianstad,skåne,1290,12,55.899331,14.097671,skåne kristianstad
+habo,jönköping,0643,6,57.816667,13.933333,jönköping habo
+högsby,kalmar,0821,8,57.15,15.666667000000002,kalmar högsby
+uddevalla,västra götaland,1485,14,58.416667,12.016667,västra götaland uddevalla
+tibro,örebro,1472,14,59.135612,15.2762,örebro tibro
+fagersta,västmanland,1982,19,60.003862,15.790605,västmanland fagersta
+kil,värmland,1715,17,59.16030600000001,12.877854,värmland kil
+åtvidaberg,östergötland,0561,5,58.143713,16.206315,östergötland åtvidaberg
+falkenberg,halland,1382,13,57.01289300000001,12.711883,halland falkenberg
+falköping,västra götaland,1499,14,58.16469300000001,13.493854999999998,västra götaland falköping
+finspång,östergötland,0562,5,58.682822,15.74651,östergötland finspång
+sundsvall,västernorrland,2281,22,62.408973,16.579451000000002,västernorrland sundsvall
+höganäs,skåne,1284,12,56.215028,12.712529,skåne höganäs
+falkenberg,halland,1382,13,57.104094,13.032551,halland falkenberg
+lindesberg,örebro,1885,18,59.434397,15.589001,örebro lindesberg
+åmål,västra götaland,1492,14,58.994944,12.463962,västra götaland åmål
+oskarshamn,kalmar,0882,8,57.376711,16.552266,kalmar oskarshamn
+filipstad,värmland,1782,17,59.713548,14.168031,värmland filipstad
+lidköping,västra götaland,1494,14,58.49076700000001,13.245936,västra götaland lidköping
+hässleholm,skåne,1293,12,56.167568,13.689776,skåne hässleholm
+nykvarn,stockholm,0140,1,59.224838,17.308238,stockholm nykvarn
+laxå,örebro,1860,18,58.92854000000001,14.44113,örebro laxå
+finspång,östergötland,0562,5,58.70773000000001,15.775864000000002,östergötland finspång
+norrtälje,stockholm,0188,1,59.736929,18.492091,stockholm norrtälje
+lysekil,västra götaland,1484,14,58.245646,11.456629,västra götaland lysekil
+nacka,stockholm,0182,1,59.292196,18.253788,stockholm nacka
+lekeberg,örebro,1814,18,59.173408,14.870949,örebro lekeberg
+kristianstad,skåne,1290,12,56.043385,14.275847,skåne kristianstad
+tanum,västra götaland,1435,14,58.59875400000001,11.28278,västra götaland tanum
+enköping,uppsala,0381,3,59.77607,16.917935999999994,uppsala enköping
+kungsbacka,halland,1384,13,57.460032,12.17238,halland kungsbacka
+kungsbacka,halland,1384,13,57.438054,12.155869,halland kungsbacka
+flen,södermanland,0482,4,59.056782,16.5893,södermanland flen
+helsingborg,skåne,1283,12,56.108335,12.791536,skåne helsingborg
+nybro,kalmar,0881,8,56.82275500000001,15.87684,kalmar nybro
+mönsterås,kalmar,0861,8,57.124107,16.263129,kalmar mönsterås
+falköping,västra götaland,1499,14,58.138443,13.336220999999998,västra götaland falköping
+umeå,västerbotten,2480,24,63.98240300000001,20.2366,västerbotten umeå
+nybro,kalmar,0881,8,56.839391000000006,15.779186,kalmar nybro
+eslöv,skåne,1285,12,55.753452,13.368545999999998,skåne eslöv
+lomma,skåne,1262,12,55.725269,13.071982,skåne lomma
+avesta,dalarna,2084,20,60.152841,16.314388,dalarna avesta
+motala,östergötland,0583,5,58.47911600000001,15.227964000000002,östergötland motala
+avesta,västernorrland,2084,20,62.338615,17.026972,västernorrland avesta
+gävle,gävleborg,2180,21,60.615339,16.89498,gävleborg gävle
+nässjö,jönköping,0682,6,57.699733,14.472352,jönköping nässjö
+forshaga,värmland,1763,17,59.529061,13.482603,värmland forshaga
+värnamo,jönköping,0683,6,57.167855,13.830135999999998,jönköping värnamo
+katrineholm,södermanland,0483,4,58.95541400000001,16.292684,södermanland katrineholm
+karlsborg,västerbotten,1446,14,65.05569200000001,17.251008,västerbotten karlsborg
+öckerö,västra götaland,1407,14,57.670081,11.654583,västra götaland öckerö
+ludvika,västra götaland,2085,20,58.590937,14.088724,västra götaland ludvika
+ludvika,västra götaland,2085,20,58.590937,14.088724,västra götaland ludvika
+nässjö,skåne,0682,6,56.05753299999999,12.726913,skåne nässjö
+hudiksvall,gävleborg,2184,21,61.78785799999999,16.612753,gävleborg hudiksvall
+bollnäs,gävleborg,2183,21,61.327525,16.296974,gävleborg bollnäs
+karlskrona,blekinge,1080,10,56.269795,15.542106,blekinge karlskrona
+hudiksvall,gävleborg,2184,21,61.896424,16.54626,gävleborg hudiksvall
+kungsbacka,halland,1384,13,57.31728,12.176746,halland kungsbacka
+aneby,jönköping,0604,6,57.934088,14.820862,jönköping aneby
+borås,västra götaland,1490,14,57.82388100000001,13.010019,västra götaland borås
+mark,västra götaland,1463,14,57.551873,12.786593,västra götaland mark
+essunga,västra götaland,1445,14,58.233322,12.666292,västra götaland essunga
+vänersborg,västra götaland,1487,14,58.50005600000001,12.278243,västra götaland vänersborg
+ånge,västernorrland,2260,22,62.499123,16.170082,västernorrland ånge
+vimmerby,kalmar,0884,8,57.699586,16.005047,kalmar vimmerby
+halmstad,halland,1380,13,56.668435,12.739596,halland halmstad
+lindesberg,örebro,1885,18,59.466198,15.365069,örebro lindesberg
+uppsala,uppsala,0380,3,59.856784,17.856576999999994,uppsala uppsala
+härjedalen,jämtland,2361,23,62.546067,12.542015,jämtland härjedalen
+växjö,kronoberg,0780,7,56.853366,15.031764,kronoberg växjö
+rättvik,dalarna,2031,20,61.169946,15.135453,dalarna rättvik
+kävlinge,skåne,1261,12,55.776234,13.091198,skåne kävlinge
+habo,jönköping,0643,6,57.93029,13.960971,jönköping habo
+gävle,gävleborg,2180,21,60.652738,17.329966,gävleborg gävle
+högsby,kalmar,0821,8,57.20738000000001,15.843661,kalmar högsby
+karlskrona,blekinge,1080,10,56.260068,15.947508,blekinge karlskrona
+motala,västerbotten,0583,5,64.23541999999999,16.298217,västerbotten motala
+värmdö,stockholm,0120,1,59.280596,18.447797,stockholm värmdö
+östersund,jämtland,2380,23,62.991929000000006,14.577169,jämtland östersund
+oskarshamn,kalmar,0882,8,57.383971,16.484591,kalmar oskarshamn
+gotland,gotland,0980,9,57.863033,19.05089,gotland gotland
+färgelanda,västra götaland,1439,14,58.613536,12.005882,västra götaland färgelanda
+ljusdal,gävleborg,2161,21,61.798149,15.843765,gävleborg ljusdal
+mörbylånga,kalmar,0840,8,56.65171,16.472174,kalmar mörbylånga
+kristianstad,skåne,1290,12,56.072127,14.085975,skåne kristianstad
+krokom,jämtland,2309,23,63.672285,14.615961,jämtland krokom
+båstad,skåne,1278,12,56.353279,12.817391,skåne båstad
+gagnef,dalarna,2026,20,60.456909,14.866827,dalarna gagnef
+västervik,kalmar,0883,8,57.899823,16.408256,kalmar västervik
+kalix,norrbotten,2514,25,65.881964,23.041193,norrbotten kalix
+helsingborg,skåne,1283,12,55.987462,12.801964,skåne helsingborg
+hedemora,dalarna,2083,20,60.311671,16.195085,dalarna hedemora
+örebro,örebro,1880,18,59.302204,14.949523,örebro örebro
+växjö,kronoberg,0780,7,56.870036,14.648903,kronoberg växjö
+lund,skåne,1281,12,55.599519,13.399529,skåne lund
+laholm,halland,1381,13,56.569084,13.032883,halland laholm
+vellinge,skåne,1233,12,55.4974,12.956839,skåne vellinge
+mora,dalarna,2062,20,60.88701700000001,14.550466,dalarna mora
+halmstad,halland,1380,13,56.820129,12.732667,halland halmstad
+varberg,halland,1383,13,57.120002,12.212379,halland varberg
+örnsköldsvik,västernorrland,2284,22,63.47940300000001,18.976834,västernorrland örnsköldsvik
+östhammar,uppsala,0382,3,60.167736,18.188617,uppsala östhammar
+gislaved,jönköping,0662,6,57.293072,13.492229,jönköping gislaved
+jönköping,jönköping,0680,6,57.838341,14.272612,jönköping jönköping
+linköping,östergötland,0580,5,58.45810600000001,15.927406,östergötland linköping
+huddinge,stockholm,0126,1,59.1909,17.982329999999994,stockholm huddinge
+örebro,örebro,1880,18,59.318326,15.400557,örebro örebro
+arvika,värmland,1784,17,59.554853,12.560902,värmland arvika
+ystad,skåne,1286,12,55.451134,14.023794,skåne ystad
+falkenberg,halland,1382,13,56.932469,12.364506,halland falkenberg
+arvidsjaur,norrbotten,2505,25,65.260836,19.635022,norrbotten arvidsjaur
+landskrona,skåne,1282,12,55.941698,12.810486,skåne landskrona
+mörbylånga,kalmar,0840,8,56.718267,16.534881,kalmar mörbylånga
+nordanstig,gävleborg,2132,21,62.048928,17.254518,gävleborg nordanstig
+gnesta,södermanland,0461,4,59.048663,17.312548,södermanland gnesta
+gnosjö,jönköping,0617,6,57.35856500000001,13.788214000000002,jönköping gnosjö
+ludvika,dalarna,2085,20,60.14771500000001,15.092607,dalarna ludvika
+örnsköldsvik,västernorrland,2284,22,63.430935,18.424791,västernorrland örnsköldsvik
+sigtuna,stockholm,0191,1,59.657562,17.632342,stockholm sigtuna
+vindeln,stockholm,2404,24,59.56150600000001,18.76409,stockholm vindeln
+norrköping,östergötland,0581,5,58.69683199999999,16.150095999999998,östergötland norrköping
+tanum,västra götaland,1435,14,58.691937,11.253141,västra götaland tanum
+åtvidaberg,östergötland,0561,5,58.302142,15.871671,östergötland åtvidaberg
+båstad,skåne,1278,12,55.622487,13.197019,skåne båstad
+enköping,uppsala,0381,3,59.625462,17.259092000000006,uppsala enköping
+alvesta,kronoberg,0764,7,56.738893,14.542548000000002,kronoberg alvesta
+nässjö,jönköping,0682,6,57.499859,14.442429,jönköping nässjö
+tranemo,västra götaland,1452,14,57.484848,13.551954,västra götaland tranemo
+norrtälje,stockholm,0188,1,60.098176,18.805852,stockholm norrtälje
+lekeberg,örebro,1814,18,59.162062,14.830566,örebro lekeberg
+lysekil,västra götaland,1484,14,58.213364,11.419244,västra götaland lysekil
+finspång,östergötland,0562,5,58.801861,15.555081,östergötland finspång
+hällefors,örebro,1863,18,59.705624,14.536707,örebro hällefors
+valdemarsvik,örebro,0563,5,59.213739,15.258451,örebro valdemarsvik
+lerum,västra götaland,1441,14,57.838561,12.299197,västra götaland lerum
+norrtälje,stockholm,0188,1,59.76416800000001,19.032137,stockholm norrtälje
+alingsås,västra götaland,1489,14,58.08105,12.492747,västra götaland alingsås
+ludvika,dalarna,2085,20,60.075164,15.006748000000002,dalarna ludvika
+ludvika,dalarna,2085,20,60.075164,15.006748000000002,dalarna ludvika
+jönköping,jönköping,0680,6,58.025058,14.467314000000002,jönköping jönköping
+olofström,blekinge,1060,10,56.229872,14.606554,blekinge olofström
+grästorp,västra götaland,1444,14,58.32880600000001,12.625973,västra götaland grästorp
+nynäshamn,skåne,0192,1,56.08296,14.52236,skåne nynäshamn
+bromölla,skåne,1272,12,56.048191,14.419841,skåne bromölla
+smedjebacken,uppsala,2061,20,60.360709,17.463489000000006,uppsala smedjebacken
+falköping,västra götaland,1499,14,58.22691700000001,13.567101999999998,västra götaland falköping
+halmstad,halland,1380,13,56.702952,12.735216,halland halmstad
+halmstad,halland,1380,13,56.590329,12.947142,halland halmstad
+rättvik,dalarna,2031,20,61.059703000000006,15.185579999999998,dalarna rättvik
+vimmerby,kalmar,0884,8,57.800057,15.717278,kalmar vimmerby
+gullspång,västra götaland,1447,14,58.92537,14.130022,västra götaland gullspång
+arvika,värmland,1784,17,59.81352800000001,12.572332,värmland arvika
+västervik,kalmar,0883,8,57.722421,16.527503,kalmar västervik
+uppsala,uppsala,0380,3,59.854163,17.833642,uppsala uppsala
+lindesberg,örebro,1885,18,59.645375,15.218535,örebro lindesberg
+värmdö,stockholm,0120,1,59.325623,18.388514,stockholm värmdö
+valdemarsvik,östergötland,0563,5,58.27334200000001,16.501596,östergötland valdemarsvik
+nora,örebro,1884,18,59.504923,14.966624,örebro nora
+borås,västra götaland,1490,14,57.701552,13.023595,västra götaland borås
+mörbylånga,kalmar,0840,8,56.604353,16.642559,kalmar mörbylånga
+älvkarleby,värmland,0319,3,59.223892000000006,14.059119,värmland älvkarleby
+eslöv,skåne,1285,12,55.764195,13.322496,skåne eslöv
+uppsala,uppsala,0380,3,59.94269,17.87557,uppsala uppsala
+strömsund,jämtland,2313,23,64.502789,14.146139000000002,jämtland strömsund
+gällivare,norrbotten,2523,25,67.135243,20.660484,norrbotten gällivare
+ulricehamn,västra götaland,1491,14,57.66905500000001,13.433189000000002,västra götaland ulricehamn
+bräcke,jämtland,2305,23,62.918379,15.249429,jämtland bräcke
+karlskrona,blekinge,1080,10,56.170836,15.73994,blekinge karlskrona
+kristianstad,skåne,1290,12,55.946387,14.156024,skåne kristianstad
+simrishamn,skåne,1291,12,55.54591600000001,14.185332999999998,skåne simrishamn
+gävle,gävleborg,2180,21,60.675013,17.146701,gävleborg gävle
+lilla edet,västra götaland,1462,14,57.712516,12.927321,västra götaland lilla edet
+göteborg,västra götaland,1480,14,57.707232,11.967017,västra götaland göteborg
+götene,västra götaland,1471,14,58.528062,13.492122,västra götaland götene
+arboga,västmanland,1984,19,59.35414599999999,15.667716,västmanland arboga
+habo,jönköping,0643,6,57.975174,14.065819,jönköping habo
+berg,jämtland,2326,23,62.923938,14.518695,jämtland berg
+enköping,västra götaland,0381,3,57.698352,11.955813,västra götaland enköping
+kalmar,uppsala,0880,8,59.800636,17.376210999999998,uppsala kalmar
+hagfors,värmland,1783,17,60.087994,13.646585,värmland hagfors
+smedjebacken,dalarna,2061,20,60.124551,15.281262,dalarna smedjebacken
+kungsbacka,halland,1384,13,57.530203,11.976054,halland kungsbacka
+gällivare,norrbotten,2523,25,66.91645799999999,21.566148,norrbotten gällivare
+ronneby,blekinge,1081,10,56.390162,15.102686,blekinge ronneby
+kungsbacka,halland,1384,13,57.465284,11.988166,halland kungsbacka
+åre,västra götaland,2321,23,57.716959,12.388543,västra götaland åre
+hallsberg,örebro,1861,18,58.99313100000001,15.32773,örebro hallsberg
+hallstahammar,västmanland,1961,19,59.613448,16.230161,västmanland hallstahammar
+norrtälje,stockholm,0188,1,60.05176,18.597017,stockholm norrtälje
+kalmar,kalmar,0880,8,56.499708,16.103074,kalmar kalmar
+halmstad,halland,1380,13,56.673982,12.857482,halland halmstad
+borlänge,dalarna,2081,20,60.40596,15.386742000000002,dalarna borlänge
+tanum,västra götaland,1435,14,58.553609,11.273685,västra götaland tanum
+askersund,skåne,1882,18,56.031989,14.204713,skåne askersund
+sandviken,uppsala,2181,21,59.819391,17.782188,uppsala sandviken
+kristianstad,skåne,1290,12,56.031989,14.204713,skåne kristianstad
+kristianstad,skåne,1290,12,56.017863,14.193314,skåne kristianstad
+ragunda,jämtland,2303,23,63.108577,16.355842000000006,jämtland ragunda
+simrishamn,skåne,1291,12,55.503246,14.152144,skåne simrishamn
+strömsund,jämtland,2313,23,63.582469,15.354173,jämtland strömsund
+örebro,örebro,1880,18,59.14006800000001,15.668353,örebro örebro
+haparanda,norrbotten,2583,25,65.835667,24.135721,norrbotten haparanda
+boden,norrbotten,2582,25,66.088515,20.944173000000006,norrbotten boden
+östersund,jämtland,2380,23,63.039251,14.462705,jämtland östersund
+heby,uppsala,0331,3,60.108367,17.209961,uppsala heby
+östhammar,uppsala,0382,3,60.167768,18.484925,uppsala östhammar
+västerås,västmanland,1980,19,59.53189,16.714112,västmanland västerås
+eslöv,skåne,1285,12,55.717611,13.52561,skåne eslöv
+nordanstig,gävleborg,2132,21,61.92763000000001,17.217365,gävleborg nordanstig
+halmstad,halland,1380,13,56.744347,12.724915,halland halmstad
+nordanstig,gävleborg,2132,21,62.108258,16.711467000000006,gävleborg nordanstig
+laxå,örebro,1860,18,59.083459,14.65499,örebro laxå
+helsingborg,skåne,1283,12,56.137304,12.813448,skåne helsingborg
+karlskrona,blekinge,1080,10,56.109771,15.465959,blekinge karlskrona
+laholm,halland,1381,13,56.413086,13.006068,halland laholm
+gotland,gotland,0980,9,57.1616,18.332037,gotland gotland
+halmstad,halland,1380,13,56.728083,12.671424,halland halmstad
+falkenberg,halland,1382,13,56.88081999999999,12.628135,halland falkenberg
+heby,uppsala,0331,3,60.066453,17.007220999999998,uppsala heby
+borås,västra götaland,1490,14,57.808591,12.752778,västra götaland borås
+härjedalen,västra götaland,2361,23,57.500563,12.54157,västra götaland härjedalen
+munkedal,västra götaland,1430,14,58.64499300000001,11.780037,västra götaland munkedal
+hedemora,dalarna,2083,20,60.278599,15.987029,dalarna hedemora
+övertorneå,norrbotten,2518,25,66.235517,23.677934,norrbotten övertorneå
+ystad,skåne,1286,12,55.451182,13.797324,skåne ystad
+gävle,gävleborg,2180,21,60.394025,17.006446,gävleborg gävle
+fagersta,västmanland,1982,19,59.97604000000001,15.743985999999998,västmanland fagersta
+lycksele,västerbotten,2481,24,64.020241,19.902091,västerbotten lycksele
+göteborg,västra götaland,1480,14,57.696493,12.255842,västra götaland göteborg
+helsingborg,skåne,1283,12,56.044198,12.704068,skåne helsingborg
+storuman,västerbotten,2421,24,65.81527700000001,15.08528,västerbotten storuman
+piteå,norrbotten,2581,25,65.222951,21.282341,norrbotten piteå
+gotland,gotland,0980,9,57.240149,18.380019,gotland gotland
+alingsås,västra götaland,1489,14,57.844528,12.4772,västra götaland alingsås
+orust,västra götaland,1421,14,58.236163,11.679338,västra götaland orust
+herrljunga,västra götaland,1466,14,58.009184,13.157048,västra götaland herrljunga
+kramfors,västernorrland,2282,22,62.9166,18.027686,västernorrland kramfors
+norrtälje,stockholm,0188,1,60.129473,18.647286,stockholm norrtälje
+norrköping,östergötland,0581,5,58.628076,16.175319000000002,östergötland norrköping
+gislaved,jönköping,0662,6,57.446111,13.594167,jönköping gislaved
+ydre,östergötland,0512,5,57.95,15.066667,östergötland ydre
+svenljunga,västra götaland,1465,14,57.633198,13.161682999999998,västra götaland svenljunga
+gnosjö,jönköping,0617,6,57.314476,13.891287,jönköping gnosjö
+sandviken,västernorrland,2181,21,62.427959,17.415109,västernorrland sandviken
+varberg,halland,1383,13,57.073175,12.36675,halland varberg
+härryda,västra götaland,1401,14,57.70281600000001,12.451188,västra götaland härryda
+laholm,halland,1381,13,56.42825300000001,13.312204,halland laholm
+umeå,västerbotten,2480,24,63.93951800000001,20.156303,västerbotten umeå
+krokom,jämtland,2309,23,63.319726,14.458035,jämtland krokom
+helsingborg,skåne,1283,12,56.09833100000001,12.638806,skåne helsingborg
+hjo,västra götaland,1497,14,58.268521,14.280176,västra götaland hjo
+västervik,kalmar,0883,8,57.62059,16.30301,kalmar västervik
+hallsberg,örebro,1861,18,58.90056,15.434484,örebro hallsberg
+leksand,dalarna,2029,20,60.794918,14.967465,dalarna leksand
+alvesta,kronoberg,0764,7,56.914297,14.453907,kronoberg alvesta
+alingsås,halland,1489,14,57.541825,12.151121,halland alingsås
+kungsbacka,västra götaland,1384,13,58.086516,11.601715,västra götaland kungsbacka
+eksjö,jönköping,0686,6,57.6291,15.343187,jönköping eksjö
+ängelholm,skåne,1292,12,56.316862,12.917843,skåne ängelholm
+lilla edet,västra götaland,1462,14,58.180071,12.108522,västra götaland lilla edet
+staffanstorp,skåne,1230,12,55.669848,13.139972,skåne staffanstorp
+hofors,gävleborg,2104,21,60.48546999999999,16.453538,gävleborg hofors
+kävlinge,skåne,1261,12,55.798332,12.976774,skåne kävlinge
+mjölby,östergötland,0586,5,58.330768000000006,15.026194,östergötland mjölby
+uddevalla,västra götaland,1485,14,58.396473,11.757787,västra götaland uddevalla
+vaggeryd,jönköping,0665,6,57.51721,14.274435,jönköping vaggeryd
+svedala,skåne,1263,12,55.554932,13.273687,skåne svedala
+halmstad,västernorrland,1380,13,62.679578,16.52976,västernorrland halmstad
+karlskrona,blekinge,1080,10,56.420251,15.538951999999998,blekinge karlskrona
+umeå,västerbotten,2480,24,63.708173,20.373003,västerbotten umeå
+vetlanda,jönköping,0685,6,57.437279,15.199514,jönköping vetlanda
+svenljunga,västra götaland,1465,14,57.413322,12.973595,västra götaland svenljunga
+värnamo,jönköping,0683,6,57.037367,14.258215,jönköping värnamo
+vårgårda,västra götaland,1442,14,57.967728,12.72825,västra götaland vårgårda
+avesta,dalarna,2084,20,60.291412,16.402185,dalarna avesta
+kinda,västra götaland,0513,5,58.523834,13.892760999999998,västra götaland kinda
+mark,västra götaland,1463,14,57.358548,12.472959,västra götaland mark
+piteå,norrbotten,2581,25,65.28014300000001,21.403477,norrbotten piteå
+strömsund,jämtland,2313,23,64.115163,16.202507999999998,jämtland strömsund
+gullspång,västra götaland,1447,14,58.85782,14.217518,västra götaland gullspång
+berg,jämtland,2326,23,62.811151,14.442336,jämtland berg
+sundsvall,västernorrland,2281,22,62.47150500000001,17.40085,västernorrland sundsvall
+lessebo,kronoberg,0761,7,56.789422,15.134665,kronoberg lessebo
+örebro,örebro,1880,18,59.34656999999999,15.227392000000002,örebro örebro
+kristianstad,skåne,1290,12,55.84036800000001,13.96827,skåne kristianstad
+hudiksvall,gävleborg,2184,21,61.728273,17.104708,gävleborg hudiksvall
+bollebygd,västra götaland,1443,14,57.69580300000001,12.734457,västra götaland bollebygd
+eksjö,östergötland,0686,6,58.536157,15.690562,östergötland eksjö
+hultsfred,kalmar,0860,8,57.39479300000001,15.775161,kalmar hultsfred
+ulricehamn,jönköping,1491,14,57.16119000000001,14.924104000000002,jönköping ulricehamn
+enköping,uppsala,0381,3,59.625723,16.948556,uppsala enköping
+sotenäs,västra götaland,1427,14,58.441239,11.301082,västra götaland sotenäs
+varberg,halland,1383,13,57.10065600000001,12.355766,halland varberg
+eslöv,skåne,1285,12,55.796007,13.438365,skåne eslöv
+örnsköldsvik,västernorrland,2284,22,63.333385,19.161944,västernorrland örnsköldsvik
+ljusdal,gävleborg,2161,21,61.79721,16.193829,gävleborg ljusdal
+åstorp,skåne,1277,12,56.105325,12.869367,skåne åstorp
+hylte,halland,1315,13,56.999572,13.239954999999998,halland hylte
+mark,västra götaland,1463,14,57.555518000000006,12.53943,västra götaland mark
+upplands-bro,stockholm,0139,1,59.587032,17.661931,stockholm upplands-bro
+uppsala,uppsala,0380,3,59.838302,17.57615,uppsala uppsala
+ludvika,dalarna,2085,20,60.185035,15.204185999999998,dalarna ludvika
+eskilstuna,jämtland,0484,4,63.002228,14.963202,jämtland eskilstuna
+värnamo,västra götaland,0683,6,58.262814,13.521134,västra götaland värnamo
+östersund,jämtland,2380,23,63.390779,14.89369,jämtland östersund
+landskrona,skåne,1282,12,55.851545,12.915209,skåne landskrona
+karlshamn,jönköping,1082,10,57.339693,14.568146,jönköping karlshamn
+eskilstuna,södermanland,0484,4,59.319095,16.597212,södermanland eskilstuna
+eskilstuna,södermanland,0484,4,59.390145,16.424177,södermanland eskilstuna
+hällefors,örebro,1863,18,59.78295,14.522491,örebro hällefors
+flen,södermanland,0482,4,59.151383,16.500051000000006,södermanland flen
+götene,västra götaland,1471,14,58.630563,13.437862,västra götaland götene
+finspång,västra götaland,0562,5,58.10759300000001,13.270394,västra götaland finspång
+mölndal,västra götaland,1481,14,57.599574,12.189499,västra götaland mölndal
+munkedal,västra götaland,1430,14,58.578554,11.543153,västra götaland munkedal
+sölvesborg,blekinge,1083,10,56.01378100000001,14.696968,blekinge sölvesborg
+härryda,västra götaland,1401,14,57.618286,12.435963,västra götaland härryda
+vindeln,västerbotten,2404,24,64.307651,19.623205,västerbotten vindeln
+öckerö,västra götaland,1407,14,57.734884,11.652415,västra götaland öckerö
+leksand,dalarna,2029,20,60.702229,15.047116,dalarna leksand
+strängnäs,södermanland,0486,4,59.361288,16.901567,södermanland strängnäs
+härnösand,västernorrland,2280,22,62.632308,17.937991,västernorrland härnösand
+härryda,västra götaland,1401,14,57.669189,12.295911,västra götaland härryda
+landskrona,skåne,1282,12,55.93240600000001,12.876023,skåne landskrona
+hässleholm,skåne,1293,12,56.157986,13.765332,skåne hässleholm
+nacka,gävleborg,0182,1,60.680797,16.826887,gävleborg nacka
+ödeshög,blekinge,0509,5,56.085896,15.756573,blekinge ödeshög
+hässleholm,skåne,1293,12,56.284508,13.936391,skåne hässleholm
+norrtälje,örebro,0188,1,59.233846,14.537957,örebro norrtälje
+höganäs,skåne,1284,12,56.20085600000001,12.551584,skåne höganäs
+kil,värmland,1715,17,59.556837,13.053804,värmland kil
+orust,västra götaland,1421,14,58.000793,11.655793,västra götaland orust
+högsby,kalmar,0821,8,57.113119,15.880439,kalmar högsby
+vingåker,västernorrland,0428,4,62.78975300000001,17.8214,västernorrland vingåker
+färgelanda,västra götaland,1439,14,58.651104,12.055453,västra götaland färgelanda
+ulricehamn,västra götaland,1491,14,57.838663,13.286221,västra götaland ulricehamn
+västerås,västra götaland,1980,19,57.752535,12.990957,västra götaland västerås
+vellinge,skåne,1233,12,55.493338,13.008787,skåne vellinge
+vellinge,skåne,1233,12,55.413762,12.963231,skåne vellinge
+södertälje,stockholm,0181,1,59.02549200000001,17.535552,stockholm södertälje
+öckerö,västra götaland,1407,14,57.690313,11.65205,västra götaland öckerö
+hörby,skåne,1266,12,55.854013,13.663329999999998,skåne hörby
+hässleholm,skåne,1293,12,56.205668,13.59975,skåne hässleholm
+umeå,västerbotten,2480,24,63.62785600000001,19.914096,västerbotten umeå
+sölvesborg,blekinge,1083,10,56.040496,14.76519,blekinge sölvesborg
+tjörn,västra götaland,1419,14,58.033244,11.74835,västra götaland tjörn
+höör,skåne,1267,12,55.933291,13.545383,skåne höör
+borlänge,dalarna,2081,20,60.380512,15.233007999999998,dalarna borlänge
+älvdalen,dalarna,2039,20,61.858427,12.716846,dalarna älvdalen
+finspång,östergötland,0562,5,58.845527,15.696952,östergötland finspång
+skövde,västra götaland,1496,14,58.398704,13.978407,västra götaland skövde
+hudiksvall,gävleborg,2184,21,61.642963,17.078121,gävleborg hudiksvall
+nordanstig,gävleborg,2132,21,61.858634,17.050985,gävleborg nordanstig
+sundsvall,västernorrland,2281,22,62.60967900000001,17.020301,västernorrland sundsvall
+alingsås,västra götaland,1489,14,57.85041999999999,12.458476,västra götaland alingsås
+eksjö,västra götaland,0686,6,58.262271,13.548443,västra götaland eksjö
+växjö,kronoberg,0780,7,56.740857,14.929001,kronoberg växjö
+höganäs,skåne,1284,12,56.185135,12.632973,skåne höganäs
+umeå,västerbotten,2480,24,63.813807,20.419065,västerbotten umeå
+leksand,dalarna,2029,20,60.679419,15.092323,dalarna leksand
+oxelösund,södermanland,0481,4,58.687827,17.044937,södermanland oxelösund
+västerås,västmanland,1980,19,59.60255600000001,16.693707,västmanland västerås
+vallentuna,stockholm,0115,1,59.55161700000001,18.030971,stockholm vallentuna
+ronneby,blekinge,1081,10,56.226857,15.420548000000002,blekinge ronneby
+emmaboda,halland,0862,8,56.838673,12.97944,halland emmaboda
+jokkmokk,norrbotten,2510,25,66.605853,19.837931,norrbotten jokkmokk
+partille,västra götaland,1402,14,57.74697800000001,12.17126,västra götaland partille
+essunga,örebro,1445,14,59.151973,15.32261,örebro essunga
+höganäs,jönköping,1284,12,58.012524,14.59063,jönköping höganäs
+haninge,stockholm,0136,1,59.142399,18.131791,stockholm haninge
+kiruna,norrbotten,2584,25,67.850378,20.605304,norrbotten kiruna
+vara,uppsala,1470,14,59.691678,17.043492999999998,uppsala vara
+pajala,norrbotten,2521,25,67.428291,22.511417,norrbotten pajala
+sollefteå,västernorrland,2283,22,63.798958,16.921770000000002,västernorrland sollefteå
+övertorneå,norrbotten,2518,25,66.55764,23.832344,norrbotten övertorneå
+sandviken,gävleborg,2181,21,60.662727,16.697894,gävleborg sandviken
+uppsala,uppsala,0380,3,59.90485,17.716677,uppsala uppsala
+karlskrona,blekinge,1080,10,56.190848,15.840349,blekinge karlskrona
+olofström,blekinge,1060,10,56.241287,14.531979000000002,blekinge olofström
+luleå,norrbotten,2580,25,65.85376099999999,22.498201,norrbotten luleå
+kävlinge,skåne,1261,12,55.79271,12.950475,skåne kävlinge
+sandviken,gävleborg,2181,21,60.71993000000001,16.597216,gävleborg sandviken
+uppsala,uppsala,0380,3,59.886907,17.200554999999998,uppsala uppsala
+södertälje,stockholm,0181,1,59.083333,17.566667000000002,stockholm södertälje
+vansbro,dalarna,2021,20,60.55,14.35,dalarna vansbro
+hultsfred,kalmar,0860,8,57.408473,15.621071,kalmar hultsfred
+åre,jämtland,2321,23,63.348376,13.463667999999998,jämtland åre
+lidköping,västra götaland,1494,14,58.38011,12.972543,västra götaland lidköping
+ljusdal,gävleborg,2161,21,61.71589399999999,16.169320000000006,gävleborg ljusdal
+nordanstig,gävleborg,2132,21,61.978121,17.243329,gävleborg nordanstig
+piteå,norrbotten,2581,25,65.154321,21.498697,norrbotten piteå
+jönköping,jönköping,0680,6,57.78147,14.162757,jönköping jönköping
+nyköping,södermanland,0480,4,58.746927,16.725095,södermanland nyköping
+stenungsund,västra götaland,1415,14,57.98639300000001,11.831144,västra götaland stenungsund
+skellefteå,västerbotten,2482,24,65.05764599999999,20.041264,västerbotten skellefteå
+arvika,värmland,1784,17,59.67342900000001,12.504671,värmland arvika
+kalix,norrbotten,2514,25,65.771284,23.130228,norrbotten kalix
+strängnäs,södermanland,0486,4,59.265052,17.282932000000002,södermanland strängnäs
+luleå,norrbotten,2580,25,65.524573,22.059254,norrbotten luleå
+södertälje,västernorrland,0181,1,63.532883,19.116272,västernorrland södertälje
+ronneby,blekinge,1081,10,56.24561,15.287237,blekinge ronneby
+kalmar,kalmar,0880,8,56.662882,16.366238,kalmar kalmar
+öckerö,västra götaland,1407,14,57.70896800000001,11.680922,västra götaland öckerö
+pajala,norrbotten,2521,25,67.484526,22.655664,norrbotten pajala
+vallentuna,uppsala,0115,1,59.92665,17.837014,uppsala vallentuna
+kiruna,norrbotten,2584,25,68.440505,22.474315,norrbotten kiruna
+tierp,uppsala,0360,3,60.52194,17.636231,uppsala tierp
+karlsborg,västra götaland,1446,14,58.59448199999999,14.539705,västra götaland karlsborg
+karlshamn,blekinge,1082,10,56.170172,14.863127,blekinge karlshamn
+karlskoga,örebro,1883,18,59.388301,14.5526,örebro karlskoga
+karlskrona,blekinge,1080,10,56.16210699999999,15.586642,blekinge karlskrona
+karlstad,värmland,1780,17,59.379913,13.502948000000002,värmland karlstad
+luleå,norrbotten,2580,25,65.59728299999999,22.079106,norrbotten luleå
+haparanda,norrbotten,2583,25,66.04455300000001,23.953027,norrbotten haparanda
+sjöbo,skåne,1265,12,55.591988,13.637648,skåne sjöbo
+mörbylånga,kalmar,0840,8,56.459838,16.428953,kalmar mörbylånga
+vänersborg,stockholm,1487,14,59.475315,17.836947,stockholm vänersborg
+katrineholm,södermanland,0483,4,59.016346,16.324228,södermanland katrineholm
+helsingborg,skåne,1283,12,56.193491,12.755286,skåne helsingborg
+jönköping,jönköping,0680,6,57.854004,14.307587,jönköping jönköping
+strömstad,västra götaland,1486,14,58.952553,11.152931,västra götaland strömstad
+bollnäs,gävleborg,2183,21,61.228627,16.567118,gävleborg bollnäs
+kil,värmland,1715,17,59.56710699999999,13.190544,värmland kil
+osby,skåne,1273,12,56.475869,14.096954,skåne osby
+nacka,värmland,0182,1,59.56710699999999,13.190544,värmland nacka
+örebro,örebro,1880,18,59.068552,15.539169,örebro örebro
+norrköping,östergötland,0581,5,58.54892099999999,15.968906,östergötland norrköping
+mark,västra götaland,1463,14,57.507764,12.692822,västra götaland mark
+hylte,halland,1315,13,57.026938,13.110207,halland hylte
+falköping,västra götaland,1499,14,58.074887,13.519676,västra götaland falköping
+borås,västra götaland,1490,14,57.593197,12.874498,västra götaland borås
+kiruna,norrbotten,2584,25,67.85507199999999,20.225548,norrbotten kiruna
+kinda,östergötland,0513,5,57.98781999999999,15.631767000000002,östergötland kinda
+simrishamn,skåne,1291,12,55.684635,14.224772,skåne simrishamn
+eskilstuna,södermanland,0484,4,59.387697,16.677549,södermanland eskilstuna
+trelleborg,västra götaland,1287,12,58.336555,13.885317,västra götaland trelleborg
+vaggeryd,jönköping,0665,6,57.355188,14.10138,jönköping vaggeryd
+sundsvall,västernorrland,2281,22,62.328093,17.208368,västernorrland sundsvall
+gotland,gotland,0980,9,57.386394,18.202844,gotland gotland
+klippan,skåne,1276,12,56.116273,13.228856,skåne klippan
+klippan,skåne,1276,12,56.11979,13.148501,skåne klippan
+kramfors,västernorrland,2282,22,62.876604,17.907754999999995,västernorrland kramfors
+motala,östergötland,0583,5,58.496565,15.338339,östergötland motala
+skellefteå,västerbotten,2482,24,64.72952,20.716593,västerbotten skellefteå
+svedala,skåne,1263,12,55.594253,13.249007999999998,skåne svedala
+tjörn,västra götaland,1419,14,57.944109,11.538262,västra götaland tjörn
+kungsbacka,halland,1384,13,57.363652,12.141729,halland kungsbacka
+arvika,värmland,1784,17,59.537569,12.743575,värmland arvika
+tjörn,västra götaland,1419,14,58.037972,11.575078,västra götaland tjörn
+luleå,norrbotten,2580,25,65.638013,21.392009,norrbotten luleå
+berg,jämtland,2326,23,62.527828,14.197194,jämtland berg
+knivsta,uppsala,0330,3,59.743923,17.816204,uppsala knivsta
+uppsala,uppsala,0380,3,59.909686,18.266033,uppsala uppsala
+laholm,halland,1381,13,56.520239,13.316688,halland laholm
+kungälv,västra götaland,1482,14,57.94390300000001,11.850813,västra götaland kungälv
+hallstahammar,västmanland,1961,19,59.56248100000001,16.235982999999994,västmanland hallstahammar
+köping,västmanland,1983,19,59.59984100000001,15.844000000000001,västmanland köping
+tingsryd,kronoberg,0763,7,56.497917,15.121524,kronoberg tingsryd
+ljusnarsberg,örebro,1864,18,59.874506,14.990384,örebro ljusnarsberg
+värmdö,stockholm,0120,1,59.335833,18.565,stockholm värmdö
+piteå,norrbotten,2581,25,65.404689,21.478504,norrbotten piteå
+eda,värmland,1730,17,59.703155,12.149459,värmland eda
+pajala,norrbotten,2521,25,66.850432,23.056268,norrbotten pajala
+hjo,västra götaland,1497,14,58.3,14.083332999999998,västra götaland hjo
+vetlanda,jönköping,0685,6,57.3025,15.125278,jönköping vetlanda
+älvsbyn,norrbotten,2560,25,65.66819,20.867354,norrbotten älvsbyn
+jönköping,jönköping,0680,6,57.814875,14.145419,jönköping jönköping
+gällivare,norrbotten,2523,25,67.185964,20.738665,norrbotten gällivare
+lessebo,kronoberg,0761,7,56.84754100000001,15.394082,kronoberg lessebo
+kungälv,västra götaland,1482,14,57.841715,11.686537,västra götaland kungälv
+sundsvall,västernorrland,2281,22,62.470936,17.155297,västernorrland sundsvall
+kramfors,västernorrland,2282,22,62.930611,17.78399,västernorrland kramfors
+klippan,skåne,1276,12,56.095109,13.145129,skåne klippan
+oskarshamn,kalmar,0882,8,57.400567,16.197434,kalmar oskarshamn
+kristianstad,skåne,1290,12,56.029377,14.156685,skåne kristianstad
+kristinehamn,värmland,1781,17,59.311361,14.11176,värmland kristinehamn
+nybro,kalmar,0881,8,56.777766,16.053326000000002,kalmar nybro
+norrköping,östergötland,0581,5,58.67498000000001,16.365736,östergötland norrköping
+krokom,jämtland,2309,23,63.802225,14.180882999999998,jämtland krokom
+avesta,dalarna,2084,20,60.127434,16.211779,dalarna avesta
+håbo,uppsala,0305,3,59.60604100000001,17.404754,uppsala håbo
+linköping,östergötland,0580,5,58.440932,15.468801999999998,östergötland linköping
+eskilstuna,södermanland,0484,4,59.449047,16.531014000000006,södermanland eskilstuna
+gnosjö,västmanland,0617,6,59.914851,16.250672,västmanland gnosjö
+vaxholm,stockholm,0187,1,59.413961,18.304833,stockholm vaxholm
+kumla,örebro,1881,18,59.117423,15.109026,örebro kumla
+ekerö,stockholm,0125,1,59.405967,17.627952,stockholm ekerö
+sandviken,gävleborg,2181,21,61.36548199999999,16.947860000000002,gävleborg sandviken
+sotenäs,västra götaland,1427,14,58.360817,11.251142,västra götaland sotenäs
+eslöv,skåne,1285,12,56.102261,12.6958,skåne eslöv
+upplands-bro,stockholm,0139,1,59.478667,17.751169,stockholm upplands-bro
+varberg,halland,1383,13,57.30581700000001,12.56488,halland varberg
+kungsör,västmanland,1960,19,59.413971,16.087752,västmanland kungsör
+kungälv,västra götaland,1482,14,57.870786,11.978862,västra götaland kungälv
+trelleborg,skåne,1287,12,55.376975,13.084278,skåne trelleborg
+uddevalla,västra götaland,1485,14,58.363597,11.890481,västra götaland uddevalla
+skellefteå,västerbotten,2482,24,64.87881,20.79953,västerbotten skellefteå
+kiruna,norrbotten,2584,25,68.381679,22.826079,norrbotten kiruna
+norrköping,östergötland,0581,5,58.64077,16.628524,östergötland norrköping
+nyköping,södermanland,0480,4,58.92749499999999,17.369469,södermanland nyköping
+halmstad,halland,1380,13,56.783227,12.832206,halland halmstad
+västerås,västmanland,1980,19,59.457644,16.314485,västmanland västerås
+åstorp,skåne,1277,12,56.135365,13.04499,skåne åstorp
+vetlanda,jönköping,0685,6,57.403087,15.497728,jönköping vetlanda
+sundsvall,västernorrland,2281,22,62.299215,17.379976,västernorrland sundsvall
+vara,västra götaland,1470,14,58.30143,13.186595,västra götaland vara
+landskrona,skåne,1282,12,55.839439,12.986569,skåne landskrona
+tjörn,västra götaland,1419,14,58.015795,11.514944,västra götaland tjörn
+staffanstorp,skåne,1230,12,55.64914,13.268006,skåne staffanstorp
+olofström,skåne,1060,10,55.832424,13.724734,skåne olofström
+storfors,värmland,1760,17,59.437666,14.392945999999998,värmland storfors
+svalöv,skåne,1214,12,55.999056,13.088313,skåne svalöv
+skellefteå,västerbotten,2482,24,64.835173,20.984811,västerbotten skellefteå
+partille,västra götaland,1402,14,57.750421,12.151588,västra götaland partille
+tjörn,västra götaland,1419,14,58.026051,11.660106,västra götaland tjörn
+ljungby,kronoberg,0781,7,56.78180500000001,13.903944,kronoberg ljungby
+vallentuna,stockholm,0115,1,59.65750300000001,18.274701,stockholm vallentuna
+bräcke,jämtland,2305,23,62.979221,16.085824,jämtland bräcke
+götene,västra götaland,1471,14,58.509551,13.307386,västra götaland götene
+gävle,gävleborg,2180,21,60.69876,17.194925,gävleborg gävle
+öckerö,västra götaland,1407,14,57.75316700000001,11.65105,västra götaland öckerö
+värnamo,jönköping,0683,6,57.17129499999999,13.921352,jönköping värnamo
+kungälv,östergötland,1482,14,58.41022099999999,15.510259,östergötland kungälv
+västerås,västmanland,1980,19,59.67913100000001,16.837808,västmanland västerås
+karlskrona,blekinge,1080,10,56.269177,15.736482999999998,blekinge karlskrona
+falköping,kronoberg,1499,14,56.82516700000001,14.777482999999998,kronoberg falköping
+kävlinge,skåne,1261,12,55.79129399999999,13.107347,skåne kävlinge
+falkenberg,halland,1382,13,57.064209,12.645174,halland falkenberg
+ystad,skåne,1286,12,55.452452,13.935417,skåne ystad
+köping,västmanland,1983,19,59.579954,15.879021,västmanland köping
+örnsköldsvik,västernorrland,2284,22,63.169467,18.554621,västernorrland örnsköldsvik
+ljungby,jönköping,0781,7,57.238215,14.069977,jönköping ljungby
+timrå,västernorrland,2262,22,62.464177,17.258688,västernorrland timrå
+laholm,halland,1381,13,56.512652,13.044638,halland laholm
+växjö,kronoberg,0780,7,57.168903,14.580559,kronoberg växjö
+hylte,halland,1315,13,57.077553,13.266096,halland hylte
+nynäshamn,stockholm,0192,1,59.035934,17.989155,stockholm nynäshamn
+vetlanda,jönköping,0685,6,57.36962,14.901320000000002,jönköping vetlanda
+landskrona,skåne,1282,12,55.8698,12.829673,skåne landskrona
+härryda,västra götaland,1401,14,57.68529300000001,12.22349,västra götaland härryda
+uddevalla,västra götaland,1485,14,58.340046,11.72853,västra götaland uddevalla
+värnamo,jönköping,0683,6,57.223516,13.777647,jönköping värnamo
+vara,västra götaland,1470,14,58.188968,13.126441,västra götaland vara
+örebro,örebro,1880,18,59.275532,14.987604,örebro örebro
+halmstad,halland,1380,13,56.597352,12.92706,halland halmstad
+laxå,örebro,1860,18,58.98295400000001,14.619779,örebro laxå
+jönköping,jönköping,0680,6,57.773366,14.418215,jönköping jönköping
+leksand,dalarna,2029,20,60.72476800000001,14.868460999999998,dalarna leksand
+uppvidinge,kronoberg,0760,7,56.99777,15.284947,kronoberg uppvidinge
+ängelholm,skåne,1292,12,56.33525899999999,12.973061,skåne ängelholm
+skövde,västra götaland,1496,14,58.477042,13.709034,västra götaland skövde
+lerum,västra götaland,1441,14,57.769947,12.268929,västra götaland lerum
+filipstad,värmland,1782,17,59.97628,14.184060999999998,värmland filipstad
+lessebo,kronoberg,0761,7,56.756624,15.26795,kronoberg lessebo
+älmhult,kronoberg,0765,7,56.663235,14.265872,kronoberg älmhult
+nynäshamn,stockholm,0192,1,58.95809000000001,17.906444,stockholm nynäshamn
+sundsvall,västernorrland,2281,22,62.699009,16.803524,västernorrland sundsvall
+ljungby,kronoberg,0781,7,56.827578,13.440539,kronoberg ljungby
+lidingö,stockholm,0186,1,59.364384,18.133142000000007,stockholm lidingö
+lidköping,västra götaland,1494,14,58.568247,13.00989,västra götaland lidköping
+lidköping,västra götaland,1494,14,58.568247,13.00989,västra götaland lidköping
+lilla edet,västra götaland,1462,14,58.157211,12.08163,västra götaland lilla edet
+lilla edet,västra götaland,1462,14,58.157211,12.08163,västra götaland lilla edet
+kävlinge,skåne,1261,12,55.79275300000001,13.202751,skåne kävlinge
+ekerö,stockholm,0125,1,59.384764,17.524639,stockholm ekerö
+laholm,halland,1381,13,56.527249,13.056591,halland laholm
+ljusdal,gävleborg,2161,21,61.83277,16.057998,gävleborg ljusdal
+härjedalen,jämtland,2361,23,61.85104499999999,14.06833,jämtland härjedalen
+enköping,östergötland,0381,3,58.499803,15.903497,östergötland enköping
+piteå,norrbotten,2581,25,65.37399599999999,21.151354,norrbotten piteå
+tranemo,västra götaland,1452,14,57.537388,13.356598000000002,västra götaland tranemo
+kristianstad,skåne,1290,12,55.933072,13.823756,skåne kristianstad
+lindesberg,örebro,1885,18,59.593056,15.226496,örebro lindesberg
+vallentuna,blekinge,0115,1,56.151828,15.585013,blekinge vallentuna
+kalmar,kalmar,0880,8,56.733926,16.297432999999998,kalmar kalmar
+norrköping,kalmar,0581,5,56.673253,16.361488,kalmar norrköping
+ockelbo,gävleborg,2101,21,61.048803,16.694169,gävleborg ockelbo
+linköping,östergötland,0580,5,58.429082,15.78718,östergötland linköping
+linköping,östergötland,0580,5,58.409813,15.624525,östergötland linköping
+tingsryd,kronoberg,0763,7,56.660845,15.124572,kronoberg tingsryd
+ronneby,blekinge,1081,10,56.196403,15.402268,blekinge ronneby
+östersund,jämtland,2380,23,63.31665699999999,14.849945000000002,jämtland östersund
+norrköping,östergötland,0581,5,58.577125,16.307637,östergötland norrköping
+klippan,skåne,1276,12,56.07444200000001,13.233562,skåne klippan
+kalmar,kalmar,0880,8,56.633975,16.168375,kalmar kalmar
+ljungby,kronoberg,0781,7,56.832588,13.935991,kronoberg ljungby
+tranemo,västra götaland,1452,14,57.56510400000001,13.583329999999998,västra götaland tranemo
+linköping,östergötland,0580,5,58.508132,15.502618,östergötland linköping
+uddevalla,västra götaland,1485,14,58.22465,11.919828,västra götaland uddevalla
+ljusdal,gävleborg,2161,21,61.829375,16.095359,gävleborg ljusdal
+finspång,östergötland,0562,5,58.788109,15.493705,östergötland finspång
+söderhamn,gävleborg,2182,21,61.21363,17.128154000000002,gävleborg söderhamn
+österåker,stockholm,0117,1,59.531146,18.618247,stockholm österåker
+västervik,kalmar,0883,8,57.904348,16.693118,kalmar västervik
+lomma,skåne,1262,12,55.674534,13.070892,skåne lomma
+ljusdal,gävleborg,2161,21,61.736513,15.169209,gävleborg ljusdal
+finspång,östergötland,0562,5,58.7341,15.827684,östergötland finspång
+bollnäs,gävleborg,2183,21,61.419319,16.407473,gävleborg bollnäs
+sundsvall,västernorrland,2281,22,62.301515,17.05193,västernorrland sundsvall
+söderköping,östergötland,0582,5,58.507934,16.137539,östergötland söderköping
+ludvika,dalarna,2085,20,60.150377,15.181398000000002,dalarna ludvika
+värmdö,stockholm,0120,1,59.25587,18.535627,stockholm värmdö
+kramfors,västra götaland,2282,22,57.766888,12.216301,västra götaland kramfors
+mariestad,västra götaland,1493,14,58.644023,13.699969,västra götaland mariestad
+luleå,norrbotten,2580,25,65.583135,22.146013,norrbotten luleå
+kungälv,uppsala,1482,14,59.67123,17.047432,uppsala kungälv
+kramfors,gävleborg,2282,22,61.974137,17.241551,gävleborg kramfors
+lund,skåne,1281,12,55.70292900000001,13.192944,skåne lund
+götene,västra götaland,1471,14,58.471591,13.445263,västra götaland götene
+tomelilla,skåne,1270,12,55.543894,14.040716,skåne tomelilla
+östersund,västernorrland,2380,23,63.784732,17.65762,västernorrland östersund
+ekerö,stockholm,0125,1,59.274685,17.70826,stockholm ekerö
+lycksele,västerbotten,2481,24,64.595861,18.677755,västerbotten lycksele
+västerås,västmanland,1980,19,59.695182,16.567965,västmanland västerås
+mariestad,västra götaland,1493,14,58.80363000000001,14.059126999999998,västra götaland mariestad
+lysekil,västra götaland,1484,14,58.291426,11.329568,västra götaland lysekil
+sunne,värmland,1766,17,60.015272,13.132996,värmland sunne
+alingsås,västra götaland,1489,14,58.045332,12.520669,västra götaland alingsås
+emmaboda,blekinge,0862,8,56.429453,15.461471,blekinge emmaboda
+sollefteå,västernorrland,2283,22,63.185115,17.056398,västernorrland sollefteå
+hedemora,dalarna,2083,20,60.451773,16.032348000000002,dalarna hedemora
+örnsköldsvik,västernorrland,2284,22,63.631477,18.698402,västernorrland örnsköldsvik
+värmdö,norrbotten,0120,1,65.416475,21.850586,norrbotten värmdö
+falkenberg,halland,1382,13,56.97913199999999,12.447907,halland falkenberg
+uppsala,uppsala,0380,3,60.088426,17.555379000000002,uppsala uppsala
+kalmar,kalmar,0880,8,56.782908,16.294941,kalmar kalmar
+tranemo,västra götaland,1452,14,57.601177,13.242889000000002,västra götaland tranemo
+uppsala,uppsala,0380,3,59.878854,17.966069,uppsala uppsala
+vingåker,södermanland,0428,4,59.129561,15.799966,södermanland vingåker
+gotland,gotland,0980,9,57.785162,18.790637,gotland gotland
+eslöv,skåne,1285,12,55.775677,13.514907999999998,skåne eslöv
+kävlinge,skåne,1261,12,55.763213,13.000394,skåne kävlinge
+ystad,skåne,1286,12,55.438801,14.113706,skåne ystad
+lilla edet,västra götaland,1462,14,58.033758,12.154571,västra götaland lilla edet
+nordmaling,västerbotten,2401,24,63.549258,19.390514000000003,västerbotten nordmaling
+osby,skåne,1273,12,56.398584,14.321326,skåne osby
+sölvesborg,blekinge,1083,10,56.071259,14.696498000000002,blekinge sölvesborg
+borgholm,kalmar,0885,8,57.166116,16.996494000000002,kalmar borgholm
+upplands väsby,stockholm,0114,1,59.541799,17.916415,stockholm upplands väsby
+sjöbo,skåne,1265,12,55.65228000000001,13.891960999999998,skåne sjöbo
+uppsala,uppsala,0380,3,59.958716,17.577545999999998,uppsala uppsala
+skellefteå,västerbotten,2482,24,64.368753,21.313517,västerbotten skellefteå
+tidaholm,västra götaland,1498,14,58.140409,13.921067,västra götaland tidaholm
+alingsås,västra götaland,1489,14,58.113151,12.62335,västra götaland alingsås
+hässleholm,skåne,1293,12,56.241004,13.711531,skåne hässleholm
+gällivare,norrbotten,2523,25,67.176118,20.658935,norrbotten gällivare
+gällivare,norrbotten,2523,25,67.176118,20.658935,norrbotten gällivare
+nässjö,kronoberg,0682,6,56.840954,14.049387,kronoberg nässjö
+västerås,kalmar,1980,19,57.01489,16.219951000000002,kalmar västerås
+flen,södermanland,0482,4,59.133138,16.725512,södermanland flen
+linköping,östergötland,0580,5,58.416735,15.516966,östergötland linköping
+malmö,skåne,1280,12,55.605293,13.000156,skåne malmö
+sotenäs,gävleborg,1427,14,60.58900500000001,16.77788,gävleborg sotenäs
+malå,västerbotten,2418,24,65.238752,18.729258,västerbotten malå
+mjölby,östergötland,0586,5,58.354314,15.288493,östergötland mjölby
+ulricehamn,halland,1491,14,56.7052,13.029041,halland ulricehamn
+ängelholm,skåne,1292,12,56.335859,12.892382,skåne ängelholm
+eksjö,jönköping,0686,6,57.615689,15.580343,jönköping eksjö
+östersund,jämtland,2380,23,63.116689,14.723028,jämtland östersund
+strängnäs,södermanland,0486,4,59.259945,17.222948000000002,södermanland strängnäs
+eslöv,skåne,1285,12,55.864144,13.151533,skåne eslöv
+strängnäs,uppsala,0486,4,59.83894300000001,17.870542999999994,uppsala strängnäs
+mariestad,västra götaland,1493,14,58.800977,13.751662,västra götaland mariestad
+markaryd,kronoberg,0767,7,56.459613,13.591983,kronoberg markaryd
+söderhamn,gävleborg,2182,21,61.278953,16.896402,gävleborg söderhamn
+älvkarleby,uppsala,0319,3,59.784245,17.83982,uppsala älvkarleby
+vingåker,södermanland,0428,4,59.045239,16.069696,södermanland vingåker
+kungälv,västra götaland,1482,14,57.886761,11.588797,västra götaland kungälv
+sundsvall,västernorrland,2281,22,62.346769,17.019979,västernorrland sundsvall
+skellefteå,västerbotten,2482,24,64.74523,20.756741,västerbotten skellefteå
+arboga,västmanland,1984,19,59.45151600000001,15.754719,västmanland arboga
+tierp,uppsala,0360,3,60.44591,17.403973,uppsala tierp
+örnsköldsvik,västernorrland,2284,22,63.424772,18.308823,västernorrland örnsköldsvik
+laholm,halland,1381,13,56.504597,12.948391,halland laholm
+mellerud,västra götaland,1461,14,58.682429000000006,12.525313,västra götaland mellerud
+flen,södermanland,0482,4,59.100733,16.561849,södermanland flen
+strängnäs,södermanland,0486,4,59.280796,16.980532,södermanland strängnäs
+sölvesborg,blekinge,1083,10,56.04708299999999,14.678026999999998,blekinge sölvesborg
+kramfors,västernorrland,2282,22,62.98669,18.430428,västernorrland kramfors
+svenljunga,västra götaland,1465,14,57.314698,12.875615,västra götaland svenljunga
+höganäs,kronoberg,1284,12,56.816097,14.360647,kronoberg höganäs
+mjölby,östergötland,0586,5,58.295391,15.179064000000002,östergötland mjölby
+hagfors,värmland,1783,17,59.879452,13.55936,värmland hagfors
+gagnef,dalarna,2026,20,60.502899,14.959955,dalarna gagnef
+söderköping,östergötland,0582,5,58.451127,16.451785,östergötland söderköping
+alvesta,kronoberg,0764,7,57.004355,14.572810999999998,kronoberg alvesta
+söderhamn,gävleborg,2182,21,61.29454000000001,16.827051,gävleborg söderhamn
+töreboda,västra götaland,1473,14,58.607027,14.038339,västra götaland töreboda
+örnsköldsvik,västernorrland,2284,22,63.379294,18.455573,västernorrland örnsköldsvik
+karlstad,värmland,1780,17,59.602235,13.728668,värmland karlstad
+orust,västra götaland,1421,14,58.073313,11.475499,västra götaland orust
+mora,dalarna,2062,20,61.008209,14.543133,dalarna mora
+heby,uppsala,0331,3,59.933759,16.962697,uppsala heby
+falkenberg,halland,1382,13,56.97929300000001,12.395902,halland falkenberg
+motala,östergötland,0583,5,58.542039,15.041261,östergötland motala
+lekeberg,örebro,1814,18,59.15156800000001,14.683658,örebro lekeberg
+mullsjö,jönköping,0642,6,57.942325,13.816638,jönköping mullsjö
+västerås,västmanland,1980,19,59.744661,16.52196,västmanland västerås
+ängelholm,skåne,1292,12,56.256101,12.973975,skåne ängelholm
+munkedal,västra götaland,1430,14,58.607817,11.672323,västra götaland munkedal
+munkfors,värmland,1762,17,59.809955,13.488232,värmland munkfors
+köping,västmanland,1983,19,59.532577,16.134284,västmanland köping
+haninge,stockholm,0136,1,58.99583000000001,18.114857,stockholm haninge
+skellefteå,västerbotten,2482,24,64.753,20.843137,västerbotten skellefteå
+tjörn,västra götaland,1419,14,58.05549,11.743581,västra götaland tjörn
+vetlanda,jönköping,0685,6,57.384661,14.966435999999998,jönköping vetlanda
+berg,jämtland,2326,23,63.000251,14.338833,jämtland berg
+hultsfred,kalmar,0860,8,57.387601,15.812169,kalmar hultsfred
+östersund,jämtland,2380,23,63.15329300000001,14.503876000000002,jämtland östersund
+tierp,uppsala,0360,3,60.226211,17.466286,uppsala tierp
+luleå,norrbotten,2580,25,65.544163,21.902536,norrbotten luleå
+sigtuna,stockholm,0191,1,59.625238,17.851567000000006,stockholm sigtuna
+sala,västmanland,1981,19,60.086028000000006,16.544777,västmanland sala
+höganäs,skåne,1284,12,56.282746,12.498322,skåne höganäs
+karlsborg,västra götaland,1446,14,58.494309,14.41381,västra götaland karlsborg
+södertälje,stockholm,0181,1,59.048603,17.41531,stockholm södertälje
+härryda,västra götaland,1401,14,57.658361,12.113576,västra götaland härryda
+mönsterås,kalmar,0861,8,57.042955000000006,16.444801000000002,kalmar mönsterås
+helsingborg,skåne,1283,12,56.056735,12.877454,skåne helsingborg
+mörbylånga,kalmar,0840,8,56.524963,16.379998,kalmar mörbylånga
+hultsfred,kalmar,0860,8,57.32330200000001,15.865313,kalmar hultsfred
+karlshamn,blekinge,1082,10,56.19251600000001,14.751521,blekinge karlshamn
+åre,jämtland,2321,23,63.309848,13.657397,jämtland åre
+sundsvall,västernorrland,2281,22,62.376436,16.848226,västernorrland sundsvall
+rättvik,dalarna,2031,20,60.938578,15.225472,dalarna rättvik
+södertälje,stockholm,0181,1,59.064191,17.6241,stockholm södertälje
+haparanda,norrbotten,2583,25,65.804057,23.91427,norrbotten haparanda
+gnosjö,jönköping,0617,6,57.407874,13.637141,jönköping gnosjö
+ulricehamn,västra götaland,1491,14,57.827588,13.193772,västra götaland ulricehamn
+hudiksvall,gävleborg,2184,21,61.613485,17.052906,gävleborg hudiksvall
+göteborg,västra götaland,1480,14,57.777278,11.831599,västra götaland göteborg
+nora,västernorrland,1884,18,62.763013,18.272028,västernorrland nora
+norberg,västmanland,1962,19,60.061747,15.95491,västmanland norberg
+avesta,västernorrland,2084,20,62.74277900000001,18.120571,västernorrland avesta
+kramfors,västernorrland,2282,22,62.845904,18.655486,västernorrland kramfors
+vänersborg,västra götaland,1487,14,58.382685,12.41426,västra götaland vänersborg
+nordmaling,västerbotten,2401,24,63.475532,19.548486,västerbotten nordmaling
+göteborg,västra götaland,1480,14,57.861715,11.517247,västra götaland göteborg
+sölvesborg,blekinge,1083,10,56.122104,14.668745,blekinge sölvesborg
+örebro,örebro,1880,18,59.226584,15.250518,örebro örebro
+värmdö,stockholm,0120,1,59.354259,18.408346,stockholm värmdö
+borlänge,dalarna,2081,20,60.530472,15.356155,dalarna borlänge
+haninge,stockholm,0136,1,58.99583000000001,18.114857,stockholm haninge
+botkyrka,stockholm,0127,1,59.189071,17.915707,stockholm botkyrka
+höör,skåne,1267,12,56.01765500000001,13.507504,skåne höör
+värmdö,halland,0120,1,57.365182,12.057731,halland värmdö
+gotland,gotland,0980,9,57.664609,18.332447,gotland gotland
+piteå,norrbotten,2581,25,65.419619,21.500646,norrbotten piteå
+härjedalen,jämtland,2361,23,62.424745,13.534382999999998,jämtland härjedalen
+uppvidinge,kronoberg,0760,7,57.127551,15.162189,kronoberg uppvidinge
+norrköping,östergötland,0581,5,58.590912,16.190351,östergötland norrköping
+umeå,västerbotten,2480,24,63.667528,20.12363,västerbotten umeå
+gävle,gävleborg,2180,21,60.929974,17.140667,gävleborg gävle
+norrtälje,stockholm,0188,1,59.759173,18.703747,stockholm norrtälje
+karlstad,örebro,1780,17,59.687833,14.616433,örebro karlstad
+norrköping,östergötland,0581,5,58.50629300000001,15.974581,östergötland norrköping
+norsjö,västerbotten,2417,24,64.936309,19.476216,västerbotten norsjö
+essunga,västra götaland,1445,14,58.188396,12.719209,västra götaland essunga
+mora,dalarna,2062,20,60.962501,14.64618,dalarna mora
+härryda,västra götaland,1401,14,57.656138,12.165207,västra götaland härryda
+kalix,uppsala,2514,25,59.83728000000001,17.535841,uppsala kalix
+nybro,kalmar,0881,8,56.745225,15.906154,kalmar nybro
+ystad,skåne,1286,12,55.433008,13.950298000000002,skåne ystad
+kristianstad,skåne,1290,12,55.85401,14.225262,skåne kristianstad
+vetlanda,jönköping,0685,6,57.343615,15.274067,jönköping vetlanda
+lilla edet,kronoberg,1462,14,56.962263,14.835024,kronoberg lilla edet
+ludvika,dalarna,2085,20,60.292442,14.969654,dalarna ludvika
+linköping,östergötland,0580,5,58.22165,15.5007,östergötland linköping
+filipstad,värmland,1782,17,59.62252700000001,14.304553,värmland filipstad
+nykvarn,stockholm,0140,1,59.196648,17.397728,stockholm nykvarn
+motala,södermanland,0583,5,58.829787,16.747025,södermanland motala
+nyköping,södermanland,0480,4,58.754491,17.011814,södermanland nyköping
+kramfors,norrbotten,2282,22,65.860968,24.121486,norrbotten kramfors
+bromölla,skåne,1272,12,56.039288,14.464035,skåne bromölla
+nynäshamn,stockholm,0192,1,58.90564499999999,17.947098,stockholm nynäshamn
+norrtälje,stockholm,0188,1,59.810277,18.893669,stockholm norrtälje
+vansbro,dalarna,2021,20,60.455788,14.497512,dalarna vansbro
+krokom,jämtland,2309,23,63.34814,14.254167,jämtland krokom
+avesta,dalarna,2084,20,60.179828,16.4786,dalarna avesta
+nässjö,jönköping,0682,6,57.653037,14.698154999999998,jönköping nässjö
+bromölla,skåne,1272,12,56.172615,14.498832,skåne bromölla
+hudiksvall,gävleborg,2184,21,61.76666700000001,16.866667,gävleborg hudiksvall
+strömsund,jämtland,2313,23,63.851591000000006,15.535497,jämtland strömsund
+sollefteå,västernorrland,2283,22,63.442944,16.897485999999994,västernorrland sollefteå
+karlskrona,blekinge,1080,10,56.205946,15.530474,blekinge karlskrona
+nyköping,södermanland,0480,4,58.63006,16.796682,södermanland nyköping
+karlskrona,blekinge,1080,10,56.375172,15.565153,blekinge karlskrona
+växjö,kronoberg,0780,7,56.69589200000001,15.022591,kronoberg växjö
+ale,västra götaland,1440,14,57.906877,12.06016,västra götaland ale
+umeå,västerbotten,2480,24,63.702584,20.313093,västerbotten umeå
+ockelbo,gävleborg,2101,21,60.9197,16.54267,gävleborg ockelbo
+örebro,örebro,1880,18,59.162539,15.525526,örebro örebro
+falköping,västra götaland,1499,14,58.154929,13.435662,västra götaland falköping
+mönsterås,kalmar,0861,8,56.998086,16.503481,kalmar mönsterås
+torsby,värmland,1737,17,60.135705,13.036516,värmland torsby
+göteborg,västra götaland,1480,14,57.798552,12.168591,västra götaland göteborg
+olofström,blekinge,1060,10,56.278997,14.533325,blekinge olofström
+bollebygd,västra götaland,1443,14,57.691805,12.698833,västra götaland bollebygd
+askersund,örebro,1882,18,58.75554,14.799502,örebro askersund
+kungsbacka,halland,1384,13,57.427218,12.03027,halland kungsbacka
+tomelilla,skåne,1270,12,55.59849200000001,14.050292,skåne tomelilla
+nässjö,jönköping,0682,6,57.666574,14.83086,jönköping nässjö
+borlänge,dalarna,2081,20,60.510133,15.538583,dalarna borlänge
+nybro,kalmar,0881,8,56.839478,15.748617,kalmar nybro
+flen,södermanland,0482,4,59.08054,16.563566,södermanland flen
+östersund,jämtland,2380,23,63.106351,14.437171,jämtland östersund
+orsa,dalarna,2034,20,61.12011700000001,14.622253,dalarna orsa
+hörby,skåne,1266,12,55.84821,13.610839000000002,skåne hörby
+osby,skåne,1273,12,56.382746,13.993285,skåne osby
+oskarshamn,kalmar,0882,8,57.263281000000006,16.444347,kalmar oskarshamn
+halmstad,halland,1380,13,56.801561,12.976093,halland halmstad
+skellefteå,västerbotten,2482,24,64.881956,21.063818,västerbotten skellefteå
+gullspång,västra götaland,1447,14,58.94379,14.039389000000002,västra götaland gullspång
+oxelösund,södermanland,0481,4,58.670016,17.104082000000002,södermanland oxelösund
+malmö,skåne,1280,12,55.546157,13.096786,skåne malmö
+pajala,norrbotten,2521,25,67.209036,23.364729,norrbotten pajala
+ekerö,stockholm,0125,1,59.284221,17.846563,stockholm ekerö
+vetlanda,jönköping,0685,6,57.468898,15.50939,jönköping vetlanda
+filipstad,örebro,1782,17,59.113364,15.546807,örebro filipstad
+södertälje,stockholm,0181,1,59.152798,17.656330999999994,stockholm södertälje
+perstorp,skåne,1275,12,56.137696,13.395281,skåne perstorp
+luleå,norrbotten,2580,25,65.739828,22.168236,norrbotten luleå
+bräcke,jämtland,2305,23,62.95434,15.043739000000002,jämtland bräcke
+västervik,kalmar,0883,8,57.778491,16.633994,kalmar västervik
+piteå,norrbotten,2581,25,65.313476,21.489939,norrbotten piteå
+jokkmokk,norrbotten,2510,25,66.96008,19.822231,norrbotten jokkmokk
+arvika,stockholm,1784,17,59.621465,17.706711,stockholm arvika
+sölvesborg,blekinge,1083,10,56.167715,14.683124,blekinge sölvesborg
+helsingborg,skåne,1283,12,56.031794,12.815699,skåne helsingborg
+hallsberg,örebro,1861,18,59.065183,15.337320000000002,örebro hallsberg
+kalix,norrbotten,2514,25,65.813772,22.891509,norrbotten kalix
+kalmar,kalmar,0880,8,56.568072,15.926524,kalmar kalmar
+oskarshamn,kalmar,0882,8,57.162953,16.459455,kalmar oskarshamn
+tanum,västra götaland,1435,14,58.610765,11.471778,västra götaland tanum
+karlskrona,blekinge,1080,10,56.183646,15.766504,blekinge karlskrona
+surahammar,västmanland,1907,19,59.776193000000006,16.19783,västmanland surahammar
+lindesberg,örebro,1885,18,59.76850500000001,15.300246,örebro lindesberg
+sollefteå,västernorrland,2283,22,63.538099,16.468698,västernorrland sollefteå
+uppsala,uppsala,0380,3,59.798448,17.442889,uppsala uppsala
+härnösand,västernorrland,2280,22,62.816873,17.86541,västernorrland härnösand
+sala,västmanland,1981,19,59.81141,16.638089,västmanland sala
+linköping,östergötland,0580,5,58.410335,15.420873,östergötland linköping
+gislaved,jönköping,0662,6,57.175757,13.592978,jönköping gislaved
+finspång,östergötland,0562,5,58.830057,15.931366,östergötland finspång
+bollnäs,gävleborg,2183,21,61.362768,16.614325,gävleborg bollnäs
+borlänge,dalarna,2081,20,60.51579399999999,15.344262,dalarna borlänge
+vaxholm,stockholm,0187,1,59.430784,18.333296,stockholm vaxholm
+lund,skåne,1281,12,55.72582,13.459653,skåne lund
+norrtälje,stockholm,0188,1,59.631719,18.517372,stockholm norrtälje
+norrtälje,stockholm,0188,1,59.745319,18.360176,stockholm norrtälje
+kinda,östergötland,0513,5,58.137829,15.676201999999998,östergötland kinda
+vaxholm,stockholm,0187,1,59.40183,18.372286,stockholm vaxholm
+valdemarsvik,östergötland,0563,5,58.333783,16.44443,östergötland valdemarsvik
+kalmar,kalmar,0880,8,56.65459300000001,16.261189,kalmar kalmar
+kristianstad,skåne,1290,12,55.98214399999999,14.273104,skåne kristianstad
+kungälv,västra götaland,1482,14,57.89449499999999,11.850962,västra götaland kungälv
+kungälv,västra götaland,1482,14,57.906184,11.936017,västra götaland kungälv
+kalix,norrbotten,2514,25,65.81074699999999,23.244968,norrbotten kalix
+robertsfors,västerbotten,2409,24,64.193285,20.854274,västerbotten robertsfors
+hofors,gävleborg,2104,21,60.57075,16.270978,gävleborg hofors
+lindesberg,örebro,1885,18,59.528885,15.449055,örebro lindesberg
+kalmar,kalmar,0880,8,56.804297,16.349063,kalmar kalmar
+piteå,norrbotten,2581,25,65.349932,21.178993,norrbotten piteå
+kalix,norrbotten,2514,25,65.846276,23.124370000000006,norrbotten kalix
+varberg,halland,1383,13,57.145253,12.45987,halland varberg
+gotland,gotland,0980,9,57.50739300000001,18.450613,gotland gotland
+borlänge,dalarna,2081,20,60.44250400000001,15.482722,dalarna borlänge
+ronneby,blekinge,1081,10,56.17405400000001,15.292186,blekinge ronneby
+ronneby,blekinge,1081,10,56.210041,15.276035,blekinge ronneby
+hultsfred,kalmar,0860,8,57.362821,15.839269,kalmar hultsfred
+tranemo,västra götaland,1452,14,57.526661,13.344477,västra götaland tranemo
+sigtuna,stockholm,0191,1,59.581732,17.888175,stockholm sigtuna
+strömsund,jämtland,2313,23,63.928714,16.314311,jämtland strömsund
+piteå,norrbotten,2581,25,65.426626,21.692732,norrbotten piteå
+ovanåker,gävleborg,2121,21,61.394776,15.838278,gävleborg ovanåker
+sunne,värmland,1766,17,59.796396,13.109385,värmland sunne
+växjö,kronoberg,0780,7,57.021676,14.8921,kronoberg växjö
+älvdalen,dalarna,2039,20,61.256161,14.038113,dalarna älvdalen
+högsby,östergötland,0821,8,58.98194,15.863871,östergötland högsby
+hammarö,jönköping,1761,17,57.786236,13.865392000000002,jönköping hammarö
+nordmaling,västerbotten,2401,24,63.541151,19.440203,västerbotten nordmaling
+ovanåker,gävleborg,2121,21,61.355796,16.143664,gävleborg ovanåker
+nyköping,södermanland,0480,4,58.872985,17.07443,södermanland nyköping
+lycksele,västerbotten,2481,24,64.815066,18.899262,västerbotten lycksele
+luleå,norrbotten,2580,25,65.670178,22.08985,norrbotten luleå
+härryda,västra götaland,1401,14,58.05637,13.332731,västra götaland härryda
+värnamo,jönköping,0683,6,56.987188,14.309857,jönköping värnamo
+alingsås,västra götaland,1489,14,58.220865,13.372489000000002,västra götaland alingsås
+mark,västra götaland,1463,14,57.556172,12.693667,västra götaland mark
+borås,västra götaland,1490,14,57.654335,12.884362,västra götaland borås
+österåker,stockholm,0117,1,59.463626,18.185024,stockholm österåker
+helsingborg,skåne,1283,12,55.966444,12.780677,skåne helsingborg
+jönköping,västra götaland,0680,6,58.220865,13.372489000000002,västra götaland jönköping
+skurup,skåne,1264,12,55.470789,13.58829,skåne skurup
+ydre,östergötland,0512,5,57.800021,15.146572,östergötland ydre
+tingsryd,västra götaland,0763,7,58.220865,13.372489000000002,västra götaland tingsryd
+hylte,halland,1315,13,56.960859,13.143345000000002,halland hylte
+ljungby,kronoberg,0781,7,56.86449200000001,14.167912,kronoberg ljungby
+håbo,uppsala,0305,3,59.897716,17.675591,uppsala håbo
+hagfors,värmland,1783,17,60.00536700000001,13.597393,värmland hagfors
+luleå,norrbotten,2580,25,65.856088,22.289997,norrbotten luleå
+borås,västra götaland,1490,14,57.793019,13.125345,västra götaland borås
+ulricehamn,västra götaland,1491,14,57.676743,13.465877,västra götaland ulricehamn
+norrtälje,stockholm,0188,1,59.803183,18.301225,stockholm norrtälje
+karlstad,värmland,1780,17,59.410535,13.487439000000002,värmland karlstad
+borgholm,kalmar,0885,8,56.774459,16.571886,kalmar borgholm
+laholm,halland,1381,13,56.453316,13.076352,halland laholm
+berg,jämtland,2326,23,62.472121,14.557917000000002,jämtland berg
+upplands-bro,stockholm,0139,1,59.500988,17.604074,stockholm upplands-bro
+rättvik,dalarna,2031,20,60.883754,15.122678,dalarna rättvik
+tingsryd,kronoberg,0763,7,56.556264,15.264463,kronoberg tingsryd
+härryda,västra götaland,1401,14,57.655551,12.499865,västra götaland härryda
+umeå,västerbotten,2480,24,63.809335,20.187522,västerbotten umeå
+kungsbacka,halland,1384,13,57.376334,11.991584,halland kungsbacka
+karlskrona,blekinge,1080,10,56.257432,15.618547,blekinge karlskrona
+habo,västerbotten,0643,6,64.116237,20.006266,västerbotten habo
+hässleholm,skåne,1293,12,56.235947,13.522654,skåne hässleholm
+askersund,örebro,1882,18,58.923791,15.03931,örebro askersund
+tjörn,västra götaland,1419,14,57.937715,11.585986,västra götaland tjörn
+sävsjö,halland,0684,6,57.41784200000001,11.939965,halland sävsjö
+öckerö,västra götaland,1407,14,57.781185,11.605982,västra götaland öckerö
+svalöv,skåne,1214,12,56.000698,13.291218,skåne svalöv
+sala,västmanland,1981,19,59.920226,16.605644,västmanland sala
+sala,västmanland,1981,19,59.911787,16.349275,västmanland sala
+lidköping,västra götaland,1494,14,58.14025400000001,13.603637,västra götaland lidköping
+nacka,stockholm,0182,1,59.279277,18.304929,stockholm nacka
+borås,västra götaland,1490,14,57.71005699999999,12.793982000000002,västra götaland borås
+söderhamn,gävleborg,2182,21,61.259492,17.163532999999994,gävleborg söderhamn
+mullsjö,västra götaland,0642,6,58.012698,13.499448999999998,västra götaland mullsjö
+borås,västra götaland,1490,14,57.769562,12.820944,västra götaland borås
+kävlinge,skåne,1261,12,55.76288100000001,12.982192,skåne kävlinge
+kramfors,västernorrland,2282,22,62.309973,17.380728,västernorrland kramfors
+sandviken,gävleborg,2181,21,60.619422,16.783333,gävleborg sandviken
+södertälje,stockholm,0181,1,59.183333,17.633333,stockholm södertälje
+kalix,norrbotten,2514,25,65.855789,23.495749,norrbotten kalix
+simrishamn,skåne,1291,12,55.63669300000001,14.129242,skåne simrishamn
+ludvika,dalarna,2085,20,60.150877,14.97622,dalarna ludvika
+mörbylånga,kalmar,0840,8,56.686651,16.491954999999994,kalmar mörbylånga
+landskrona,skåne,1282,12,55.828988,12.942142,skåne landskrona
+bollnäs,gävleborg,2183,21,61.266693,16.645052,gävleborg bollnäs
+nynäshamn,stockholm,0192,1,59.02701999999999,17.929651999999994,stockholm nynäshamn
+mora,dalarna,2062,20,61.017549,14.471227,dalarna mora
+sundsvall,västernorrland,2281,22,62.40476700000001,17.126484,västernorrland sundsvall
+halmstad,halland,1380,13,56.77414,12.979098,halland halmstad
+haparanda,norrbotten,2583,25,65.726458,23.731355,norrbotten haparanda
+svenljunga,västra götaland,1465,14,57.576853,13.117921,västra götaland svenljunga
+botkyrka,stockholm,0127,1,59.112867,17.744928,stockholm botkyrka
+bollnäs,gävleborg,2183,21,61.21499100000001,16.602652,gävleborg bollnäs
+örnsköldsvik,västernorrland,2284,22,63.277804,18.076399,västernorrland örnsköldsvik
+gagnef,dalarna,2026,20,60.557505000000006,15.222898,dalarna gagnef
+sigtuna,stockholm,0191,1,59.61652,17.72363,stockholm sigtuna
+leksand,dalarna,2029,20,60.775392,14.857697,dalarna leksand
+hultsfred,kalmar,0860,8,57.543427,15.747964,kalmar hultsfred
+halmstad,halland,1380,13,56.720464,13.126037,halland halmstad
+norrköping,östergötland,0581,5,58.786108,16.154592,östergötland norrköping
+simrishamn,skåne,1291,12,55.55655400000001,14.34999,skåne simrishamn
+karlskrona,blekinge,1080,10,56.188899,15.56228,blekinge karlskrona
+piteå,norrbotten,2581,25,65.519859,21.49157,norrbotten piteå
+vetlanda,jönköping,0685,6,57.435987,15.172909,jönköping vetlanda
+höör,skåne,1267,12,56.10569399999999,12.726249,skåne höör
+trollhättan,västra götaland,1488,14,58.18823,12.226877,västra götaland trollhättan
+gotland,gotland,0980,9,57.695914,18.360332,gotland gotland
+sjöbo,skåne,1265,12,55.635086,13.703116,skåne sjöbo
+linköping,östergötland,0580,5,58.36154499999999,15.369854,östergötland linköping
+hässleholm,skåne,1293,12,56.282589,13.915975,skåne hässleholm
+nyköping,södermanland,0480,4,58.776571,17.086447,södermanland nyköping
+uddevalla,västra götaland,1485,14,58.286712,11.830503,västra götaland uddevalla
+mariestad,västra götaland,1493,14,58.837351,13.980023,västra götaland mariestad
+lerum,västra götaland,1441,14,57.915932,12.370609,västra götaland lerum
+vellinge,skåne,1233,12,55.406007,12.844342,skåne vellinge
+skara,västra götaland,1495,14,58.384607,13.439767000000002,västra götaland skara
+vaxholm,stockholm,0187,1,59.395874,18.976177,stockholm vaxholm
+karlstad,värmland,1780,17,59.417686,13.677096,värmland karlstad
+orsa,dalarna,2034,20,61.185738,14.848198000000002,dalarna orsa
+karlskrona,blekinge,1080,10,56.178442,15.518659,blekinge karlskrona
+norrtälje,stockholm,0188,1,59.968548,18.612015,stockholm norrtälje
+flen,södermanland,0482,4,59.061482,16.708105,södermanland flen
+halmstad,halland,1380,13,56.693218,12.973859,halland halmstad
+linköping,östergötland,0580,5,58.291674,15.559967000000002,östergötland linköping
+vetlanda,västernorrland,0685,6,63.25054100000001,19.004406,västernorrland vetlanda
+säter,dalarna,2082,20,60.40336800000001,15.81279,dalarna säter
+strömstad,västra götaland,1486,14,58.924422,11.268152,västra götaland strömstad
+trelleborg,skåne,1287,12,55.406315,13.082367,skåne trelleborg
+skellefteå,västerbotten,2482,24,64.687603,21.236392,västerbotten skellefteå
+skellefteå,västerbotten,2482,24,64.742143,20.971923,västerbotten skellefteå
+ale,västra götaland,1440,14,57.982574,12.212476,västra götaland ale
+gislaved,jönköping,0662,6,57.12635600000001,13.361951,jönköping gislaved
+nyköping,västerbotten,0480,4,63.79926500000001,20.57891,västerbotten nyköping
+eskilstuna,södermanland,0484,4,59.389915,16.538067,södermanland eskilstuna
+vaggeryd,jönköping,0665,6,57.428947,14.091985,jönköping vaggeryd
+simrishamn,skåne,1291,12,55.475713,14.279918,skåne simrishamn
+skurup,skåne,1264,12,55.42463000000001,13.569718,skåne skurup
+östhammar,uppsala,0382,3,60.033424,18.029507,uppsala östhammar
+hammarö,värmland,1761,17,59.324185,13.470522,värmland hammarö
+mörbylånga,södermanland,0840,8,58.785863,16.319955,södermanland mörbylånga
+laholm,halland,1381,13,56.45000699999999,12.961617,halland laholm
+falkenberg,halland,1382,13,56.883355,12.558435,halland falkenberg
+lessebo,kronoberg,0761,7,57.15871800000001,15.164831,kronoberg lessebo
+skövde,västra götaland,1496,14,58.341621,13.82799,västra götaland skövde
+västerås,västmanland,1980,19,59.721776,16.428147,västmanland västerås
+malmö,skåne,1280,12,55.538813,12.966722,skåne malmö
+skurup,skåne,1264,12,55.483927,13.501464000000002,skåne skurup
+älvkarleby,uppsala,0319,3,60.635222,17.409285999999998,uppsala älvkarleby
+uppsala,uppsala,0380,3,60.08089200000001,17.735795,uppsala uppsala
+vansbro,dalarna,2021,20,60.563861,14.301572,dalarna vansbro
+örkelljunga,skåne,1257,12,56.370506000000006,13.46517,skåne örkelljunga
+tomelilla,skåne,1270,12,55.614047,13.993737,skåne tomelilla
+bengtsfors,västra götaland,1460,14,59.02283900000001,12.289002,västra götaland bengtsfors
+karlstad,skåne,1780,17,55.37713299999999,13.050329,skåne karlstad
+varberg,halland,1383,13,57.182168,12.468343,halland varberg
+mjölby,östergötland,0586,5,58.39558,15.08677,östergötland mjölby
+norrköping,östergötland,0581,5,58.575892,15.923,östergötland norrköping
+tjörn,västra götaland,1419,14,57.990922,11.549795,västra götaland tjörn
+tierp,uppsala,0360,3,60.47415600000001,17.762776000000006,uppsala tierp
+jönköping,jönköping,0680,6,57.888091,14.364036,jönköping jönköping
+katrineholm,södermanland,0483,4,59.031551,16.445463,södermanland katrineholm
+hallsberg,örebro,1861,18,59.137692,15.337695000000002,örebro hallsberg
+uppsala,uppsala,0380,3,59.876284,17.748717000000006,uppsala uppsala
+håbo,uppsala,0305,3,59.567537,17.483612,uppsala håbo
+skövde,västra götaland,1496,14,58.389845,13.844379,västra götaland skövde
+linköping,östergötland,0580,5,58.359696,15.553717,östergötland linköping
+gotland,gotland,0980,9,57.70721999999999,18.801919,gotland gotland
+gotland,gotland,0980,9,57.70721999999999,18.801919,gotland gotland
+håbo,västra götaland,0305,3,57.687282,11.940638,västra götaland håbo
+lerum,skåne,1441,14,55.996056,13.872717000000002,skåne lerum
+falkenberg,halland,1382,13,56.855134,12.690862,halland falkenberg
+kalmar,dalarna,0880,8,60.693638,15.05284,dalarna kalmar
+smedjebacken,dalarna,2061,20,60.141496,15.415104,dalarna smedjebacken
+uddevalla,västra götaland,1485,14,58.36543,11.807151,västra götaland uddevalla
+tomelilla,skåne,1270,12,55.550375,14.116682,skåne tomelilla
+trelleborg,skåne,1287,12,55.34644599999999,13.374123,skåne trelleborg
+gislaved,jönköping,0662,6,57.162696,13.411558,jönköping gislaved
+sotenäs,västra götaland,1427,14,58.353644,11.226118,västra götaland sotenäs
+höör,skåne,1267,12,55.838666,13.494158,skåne höör
+söderköping,östergötland,0582,5,58.500942,16.161604,östergötland söderköping
+kungälv,västra götaland,1482,14,57.940833,11.810833,västra götaland kungälv
+nässjö,jönköping,0682,6,57.733333,14.75,jönköping nässjö
+österåker,stockholm,0117,1,59.495278000000006,18.356389,stockholm österåker
+alingsås,västra götaland,1489,14,58.119999,12.533111,västra götaland alingsås
+sollefteå,västernorrland,2283,22,63.168023,17.265447,västernorrland sollefteå
+sollefteå,västernorrland,2283,22,63.168023,17.265447,västernorrland sollefteå
+mora,dalarna,2062,20,60.913298,14.61574,dalarna mora
+säter,dalarna,2082,20,60.39024000000001,15.670832999999998,dalarna säter
+finspång,östergötland,0562,5,58.72462,15.634397,östergötland finspång
+sorsele,västerbotten,2422,24,65.533066,17.536873999999994,västerbotten sorsele
+nynäshamn,stockholm,0192,1,59.014384,17.82105,stockholm nynäshamn
+flen,södermanland,0482,4,59.071630000000006,16.829298,södermanland flen
+stenungsund,västra götaland,1415,14,58.032826,11.870128,västra götaland stenungsund
+norrtälje,stockholm,0188,1,59.702861,18.85637,stockholm norrtälje
+karlskrona,blekinge,1080,10,56.31133000000001,15.595431,blekinge karlskrona
+tomelilla,skåne,1270,12,55.579951,14.014554,skåne tomelilla
+mjölby,östergötland,0586,5,58.35250799999999,15.236179000000002,östergötland mjölby
+österåker,stockholm,0117,1,59.572133,18.289962,stockholm österåker
+staffanstorp,skåne,1230,12,55.642739,13.211398999999998,skåne staffanstorp
+strängnäs,södermanland,0486,4,59.361279,17.207143,södermanland strängnäs
+strömstad,västra götaland,1486,14,58.917855,11.207555,västra götaland strömstad
+österåker,östergötland,0117,1,58.130147,14.567888,östergötland österåker
+timrå,västernorrland,2262,22,62.553498,17.409703,västernorrland timrå
+nyköping,södermanland,0480,4,58.723851,16.41834,södermanland nyköping
+värmdö,stockholm,0120,1,59.288201,18.691782,stockholm värmdö
+eslöv,skåne,1285,12,55.903151,13.393866,skåne eslöv
+göteborg,västra götaland,1480,14,57.805243,12.189724,västra götaland göteborg
+ekerö,stockholm,0125,1,59.334749,17.687364000000006,stockholm ekerö
+halmstad,halland,1380,13,56.764323,12.634688,halland halmstad
+sigtuna,stockholm,0191,1,59.62146,17.796332,stockholm sigtuna
+mora,dalarna,2062,20,60.948277,14.461244,dalarna mora
+storuman,västerbotten,2421,24,65.067883,17.147755,västerbotten storuman
+nässjö,jönköping,0682,6,57.581899,14.820178,jönköping nässjö
+falköping,västra götaland,1499,14,58.271317,13.713327,västra götaland falköping
+stenungsund,västra götaland,1415,14,58.061063,11.908631,västra götaland stenungsund
+stenungsund,västra götaland,1415,14,58.066934,11.800581,västra götaland stenungsund
+kil,västra götaland,1715,17,58.432234,13.584021,västra götaland kil
+lidingö,stockholm,0186,1,59.390487,18.090382,stockholm lidingö
+färgelanda,västra götaland,1439,14,58.30066899999999,12.066645,västra götaland färgelanda
+nyköping,södermanland,0480,4,58.802763,16.785344,södermanland nyköping
+karlshamn,blekinge,1082,10,56.173149,14.819885,blekinge karlshamn
+gnesta,södermanland,0461,4,59.080099,17.013662,södermanland gnesta
+hässleholm,skåne,1293,12,56.175596,13.827924,skåne hässleholm
+eslöv,skåne,1285,12,55.94569,13.373798999999998,skåne eslöv
+nordanstig,gävleborg,2132,21,61.898199,17.333013,gävleborg nordanstig
+sävsjö,jönköping,0684,6,57.31959499999999,14.591119,jönköping sävsjö
+stockholm,stockholm,0180,1,59.32511700000001,18.071093,stockholm stockholm
+sundsvall,västernorrland,2281,22,62.347803000000006,17.364835,västernorrland sundsvall
+härryda,västra götaland,1401,14,57.65387800000001,12.397367,västra götaland härryda
+tjörn,västra götaland,1419,14,57.928828,11.611827,västra götaland tjörn
+ystad,skåne,1286,12,55.47489100000001,13.874225,skåne ystad
+stenungsund,västra götaland,1415,14,58.014335,11.828449,västra götaland stenungsund
+vara,västra götaland,1470,14,58.32551700000001,12.923582,västra götaland vara
+alingsås,västra götaland,1489,14,58.141468,12.579785,västra götaland alingsås
+örebro,örebro,1880,18,59.210613,15.49755,örebro örebro
+borgholm,kalmar,0885,8,56.756756,16.527238,kalmar borgholm
+nynäshamn,stockholm,0192,1,58.955646,17.785737,stockholm nynäshamn
+vimmerby,blekinge,0884,8,56.150783,15.3818,blekinge vimmerby
+storfors,värmland,1760,17,59.463157,14.277864,värmland storfors
+storuman,västerbotten,2421,24,65.44395899999999,15.832388,västerbotten storuman
+sandviken,gävleborg,2181,21,60.582853,16.525365,gävleborg sandviken
+uppsala,uppsala,0380,3,59.956938,17.704209,uppsala uppsala
+lindesberg,örebro,1885,18,59.7136,15.135533,örebro lindesberg
+nora,örebro,1884,18,59.545432,14.941675,örebro nora
+boxholm,östergötland,0560,5,58.237724,15.091668,östergötland boxholm
+katrineholm,södermanland,0483,4,58.90536,16.199816000000002,södermanland katrineholm
+lindesberg,örebro,1885,18,59.739452,15.20154,örebro lindesberg
+strängnäs,södermanland,0486,4,59.349601,17.081336,södermanland strängnäs
+värmdö,västra götaland,0120,1,57.564189,12.457947,västra götaland värmdö
+nordanstig,gävleborg,2132,21,61.8699,17.317171,gävleborg nordanstig
+hallstahammar,västmanland,1961,19,59.523741,16.248735999999994,västmanland hallstahammar
+markaryd,kronoberg,0767,7,56.55246800000001,13.731973000000002,kronoberg markaryd
+strömstad,västra götaland,1486,14,58.93815,11.17873,västra götaland strömstad
+strömsund,jämtland,2313,23,63.851666,15.558235,jämtland strömsund
+ängelholm,skåne,1292,12,56.166109,12.837575,skåne ängelholm
+ragunda,jämtland,2303,23,63.169262,15.612287,jämtland ragunda
+linköping,östergötland,0580,5,58.33674,15.721157,östergötland linköping
+karlskrona,blekinge,1080,10,56.098674,15.664782,blekinge karlskrona
+göteborg,västra götaland,1480,14,57.609428,11.782149,västra götaland göteborg
+gotland,gotland,0980,9,57.281454,18.471394,gotland gotland
+lund,skåne,1281,12,55.749279,13.194779999999998,skåne lund
+ljusnarsberg,örebro,1864,18,59.93455400000001,14.945443,örebro ljusnarsberg
+umeå,västerbotten,2480,24,63.742559,20.231426000000006,västerbotten umeå
+umeå,västerbotten,2480,24,63.779389,20.195725,västerbotten umeå
+sundsvall,västernorrland,2281,22,62.417776,16.578272,västernorrland sundsvall
+torsby,värmland,1737,17,60.410045,13.26975,värmland torsby
+skövde,västra götaland,1496,14,58.478527,13.86672,västra götaland skövde
+arvika,värmland,1784,17,59.67827,12.415219,värmland arvika
+ekerö,stockholm,0125,1,59.288476,17.719274,stockholm ekerö
+eskilstuna,södermanland,0484,4,59.438272,16.619871,södermanland eskilstuna
+luleå,norrbotten,2580,25,65.77213,22.264301,norrbotten luleå
+sundsvall,västernorrland,2281,22,62.39075500000001,17.307102,västernorrland sundsvall
+trosa,jönköping,0488,4,57.77747700000001,14.596108,jönköping trosa
+ludvika,dalarna,2085,20,60.221459,14.960771,dalarna ludvika
+hagfors,värmland,1783,17,59.884283,13.722264,värmland hagfors
+sunne,värmland,1766,17,59.890765,13.045421,värmland sunne
+surahammar,västmanland,1907,19,59.707058,16.221994,västmanland surahammar
+ale,västra götaland,1440,14,57.826762,12.016163,västra götaland ale
+nyköping,södermanland,0480,4,58.743096,16.875131,södermanland nyköping
+svalöv,skåne,1214,12,55.913651,13.106982,skåne svalöv
+norrtälje,stockholm,0188,1,59.840363,18.662935,stockholm norrtälje
+orust,västra götaland,1421,14,58.143036,11.819062,västra götaland orust
+säffle,värmland,1785,17,59.179793,12.550962,värmland säffle
+kiruna,norrbotten,2584,25,67.646923,21.055485,norrbotten kiruna
+överkalix,norrbotten,2513,25,66.25963,22.820359,norrbotten överkalix
+stenungsund,västra götaland,1415,14,58.118234,11.95799,västra götaland stenungsund
+ystad,skåne,1286,12,55.43093100000001,13.715131,skåne ystad
+piteå,västra götaland,2581,25,58.732952,11.172323,västra götaland piteå
+degerfors,västerbotten,1862,18,65.02978900000001,20.768065,västerbotten degerfors
+svedala,skåne,1263,12,55.515242,13.238435,skåne svedala
+härjedalen,jämtland,2361,23,62.03607,14.359839,jämtland härjedalen
+svenljunga,västra götaland,1465,14,57.496312,13.112259,västra götaland svenljunga
+piteå,norrbotten,2581,25,65.310331,21.234612,norrbotten piteå
+stenungsund,västra götaland,1415,14,58.144643,11.938389,västra götaland stenungsund
+berg,jämtland,2326,23,62.766806,14.432422,jämtland berg
+ängelholm,örebro,1292,12,59.112646,15.389159,örebro ängelholm
+österåker,stockholm,0117,1,59.449483,18.283511,stockholm österåker
+karlshamn,blekinge,1082,10,56.26198,14.774798,blekinge karlshamn
+norrköping,östergötland,0581,5,58.650264,16.029186,östergötland norrköping
+mjölby,östergötland,0586,5,58.334732,15.223076999999998,östergötland mjölby
+torsby,värmland,1737,17,60.730431,12.871173,värmland torsby
+säffle,värmland,1785,17,59.072789,13.163091,värmland säffle
+gävle,gävleborg,2180,21,60.61760500000001,17.113604000000002,gävleborg gävle
+älvdalen,dalarna,2039,20,61.69418100000001,13.143068,dalarna älvdalen
+säter,dalarna,2082,20,60.414235,15.737297,dalarna säter
+mark,västra götaland,1463,14,57.541234,12.435089,västra götaland mark
+kungsbacka,halland,1384,13,57.4442,12.137018,halland kungsbacka
+sala,västmanland,1981,19,59.862903,16.442051,västmanland sala
+norrtälje,stockholm,0188,1,59.620932,18.439134,stockholm norrtälje
+umeå,västerbotten,2480,24,63.902075,20.552316,västerbotten umeå
+boden,norrbotten,2582,25,65.761657,21.751024,norrbotten boden
+göteborg,västra götaland,1480,14,57.803487,11.911706,västra götaland göteborg
+uppsala,uppsala,0380,3,59.811622,17.700560999999997,uppsala uppsala
+sävsjö,jönköping,0684,6,57.317287,14.612718,jönköping sävsjö
+ekerö,stockholm,0125,1,59.3825,17.585278,stockholm ekerö
+norrtälje,stockholm,0188,1,59.897693,18.69698,stockholm norrtälje
+smedjebacken,dalarna,2061,20,60.07301,15.564555,dalarna smedjebacken
+tierp,uppsala,0360,3,60.38813199999999,17.241258,uppsala tierp
+söderhamn,gävleborg,2182,21,61.29985,17.060759,gävleborg söderhamn
+söderköping,östergötland,0582,5,58.482380000000006,16.321622,östergötland söderköping
+håbo,uppsala,0305,3,59.676202,17.595891,uppsala håbo
+norrtälje,stockholm,0188,1,59.75011600000001,18.915614,stockholm norrtälje
+södertälje,stockholm,0181,1,59.196428,17.627166,stockholm södertälje
+boden,norrbotten,2582,25,65.90101999999999,21.321748,norrbotten boden
+lund,kalmar,1281,12,56.567171,16.619985,kalmar lund
+luleå,norrbotten,2580,25,65.654162,21.953414,norrbotten luleå
+vimmerby,kalmar,0884,8,57.741455,15.796053,kalmar vimmerby
+sölvesborg,blekinge,1083,10,56.050653,14.58719,blekinge sölvesborg
+hudiksvall,gävleborg,2184,21,61.717887,16.96966,gävleborg hudiksvall
+umeå,västerbotten,2480,24,63.872978,20.036461,västerbotten umeå
+umeå,västerbotten,2480,24,63.679946,20.002339000000006,västerbotten umeå
+hallstahammar,västmanland,1961,19,59.583061,16.210760999999998,västmanland hallstahammar
+ludvika,dalarna,2085,20,60.186912,15.147367,dalarna ludvika
+timrå,västernorrland,2262,22,62.504549,17.508612,västernorrland timrå
+hässleholm,skåne,1293,12,56.04063000000001,13.681493,skåne hässleholm
+sjöbo,skåne,1265,12,55.58503100000001,13.673597,skåne sjöbo
+ystad,skåne,1286,12,55.501399,13.79526,skåne ystad
+jönköping,jönköping,0680,6,57.678947,14.091865,jönköping jönköping
+linköping,östergötland,0580,5,58.43085799999999,15.68659,östergötland linköping
+överkalix,norrbotten,2513,25,66.33726,22.847685,norrbotten överkalix
+ljusdal,örebro,2161,21,59.45198900000001,14.771379,örebro ljusdal
+östersund,jämtland,2380,23,63.000922,14.745313,jämtland östersund
+tanum,västra götaland,1435,14,58.721908,11.332385,västra götaland tanum
+umeå,västerbotten,2480,24,64.035882,20.050217,västerbotten umeå
+svalöv,skåne,1214,12,55.866539,13.090358,skåne svalöv
+jönköping,jönköping,0680,6,57.706654,14.321032999999998,jönköping jönköping
+tibro,västra götaland,1472,14,58.42489000000001,14.163119,västra götaland tibro
+tidaholm,västra götaland,1498,14,58.14069300000001,13.924145,västra götaland tidaholm
+skövde,västra götaland,1496,14,58.576338,14.012095,västra götaland skövde
+västerås,västmanland,1980,19,59.512822,16.531577,västmanland västerås
+tierp,uppsala,0360,3,60.342961,17.516839,uppsala tierp
+västerås,västmanland,1980,19,59.68670400000001,16.618347,västmanland västerås
+ulricehamn,västra götaland,1491,14,57.861904,13.428551,västra götaland ulricehamn
+mönsterås,kalmar,0861,8,56.970307,16.43421,kalmar mönsterås
+skövde,västra götaland,1496,14,58.527673,13.759432,västra götaland skövde
+timrå,västernorrland,2262,22,62.489319,17.327373,västernorrland timrå
+tingsryd,kronoberg,0763,7,56.52790600000001,14.977188,kronoberg tingsryd
+gotland,gotland,0980,9,57.735759,18.613689,gotland gotland
+gällivare,norrbotten,2523,25,67.326607,20.736699,norrbotten gällivare
+kungälv,västra götaland,1482,14,57.893324,11.743298,västra götaland kungälv
+motala,östergötland,0583,5,58.71515,15.354501,östergötland motala
+höör,skåne,1267,12,55.99998299999999,13.635045000000002,skåne höör
+tierp,uppsala,0360,3,60.25739599999999,17.656487,uppsala tierp
+gotland,gotland,0980,9,57.52080600000001,18.168597,gotland gotland
+varberg,halland,1383,13,57.17385,12.30051,halland varberg
+kristianstad,skåne,1290,12,55.934062,13.975141,skåne kristianstad
+lerum,västra götaland,1441,14,57.81872900000001,12.422679,västra götaland lerum
+tomelilla,skåne,1270,12,55.543798,13.954122,skåne tomelilla
+umeå,västerbotten,2480,24,63.808575,20.376449,västerbotten umeå
+falköping,västra götaland,1499,14,58.210335,13.608092,västra götaland falköping
+båstad,skåne,1278,12,56.426297,12.626767,skåne båstad
+mark,kalmar,1463,14,56.794375,15.947044,kalmar mark
+karlskrona,blekinge,1080,10,56.095268,15.831092000000002,blekinge karlskrona
+hässleholm,skåne,1293,12,56.11158,13.744208,skåne hässleholm
+lund,skåne,1281,12,55.678976,13.418465,skåne lund
+varberg,halland,1383,13,57.188948,12.280569,halland varberg
+alvesta,kronoberg,0764,7,57.034375,14.571008,kronoberg alvesta
+ånge,västernorrland,2260,22,62.476165,16.331355,västernorrland ånge
+munkedal,västra götaland,1430,14,58.443718,11.599255,västra götaland munkedal
+torsby,värmland,1737,17,60.13551999999999,13.006788,värmland torsby
+eskilstuna,södermanland,0484,4,59.419243,16.474944,södermanland eskilstuna
+hofors,västernorrland,2104,21,63.076659,17.715374,västernorrland hofors
+borlänge,dalarna,2081,20,60.46352,15.569629,dalarna borlänge
+västerås,västmanland,1980,19,59.674702,16.722464000000002,västmanland västerås
+hylte,halland,1315,13,56.95354200000001,13.074462,halland hylte
+västervik,kalmar,0883,8,57.63186500000001,16.182809,kalmar västervik
+tranemo,västra götaland,1452,14,57.49049100000001,13.431045999999998,västra götaland tranemo
+danderyd,stockholm,0162,1,59.291823,17.779643,stockholm danderyd
+markaryd,kronoberg,0767,7,56.579041,13.752695,kronoberg markaryd
+kalmar,kalmar,0880,8,56.699905,16.11671,kalmar kalmar
+trelleborg,skåne,1287,12,55.37592,13.146152,skåne trelleborg
+trollhättan,västra götaland,1488,14,58.217868,12.341385,västra götaland trollhättan
+trosa,södermanland,0488,4,58.896705,17.547811,södermanland trosa
+krokom,jämtland,2309,23,63.33313100000001,14.016113,jämtland krokom
+vara,västra götaland,1470,14,58.25186600000001,13.085384,västra götaland vara
+ulricehamn,västra götaland,1491,14,57.98563299999999,13.531922,västra götaland ulricehamn
+gävle,gävleborg,2180,21,60.818958,17.214570000000002,gävleborg gävle
+halmstad,halland,1380,13,57.14171999999999,12.288236,halland halmstad
+varberg,halland,1383,13,57.13873100000001,12.223881,halland varberg
+söderhamn,gävleborg,2182,21,61.396137,16.833717,gävleborg söderhamn
+botkyrka,stockholm,0127,1,59.200555,17.834312,stockholm botkyrka
+eskilstuna,södermanland,0484,4,59.429688,16.339888000000002,södermanland eskilstuna
+göteborg,västra götaland,1480,14,57.728818,11.74337,västra götaland göteborg
+landskrona,skåne,1282,12,55.913333,12.689722,skåne landskrona
+södertälje,stockholm,0181,1,59.253428,17.490446,stockholm södertälje
+vimmerby,kalmar,0884,8,57.5766,16.1052,kalmar vimmerby
+jönköping,jönköping,0680,6,58.047598,14.337399,jönköping jönköping
+kiruna,norrbotten,2584,25,67.855418,20.318467,norrbotten kiruna
+ekerö,norrbotten,0125,1,66.392166,23.604889,norrbotten ekerö
+karlskrona,blekinge,1080,10,56.31028000000001,15.462932,blekinge karlskrona
+varberg,halland,1383,13,57.041893,12.398992,halland varberg
+kalmar,kalmar,0880,8,56.623633,16.041255,kalmar kalmar
+vindeln,västerbotten,2404,24,64.099244,19.67026,västerbotten vindeln
+hammarö,värmland,1761,17,59.345907,13.561706,värmland hammarö
+malmö,skåne,1280,12,55.514669,13.001715,skåne malmö
+vaxholm,stockholm,0187,1,59.377574,18.392701,stockholm vaxholm
+hässleholm,skåne,1293,12,56.160204,13.604263,skåne hässleholm
+nyköping,södermanland,0480,4,58.849348,17.234323999999994,södermanland nyköping
+svalöv,skåne,1214,12,56.30430500000001,13.822234,skåne svalöv
+varberg,halland,1383,13,57.174622,12.22589,halland varberg
+helsingborg,skåne,1283,12,56.19372900000001,12.773407,skåne helsingborg
+värnamo,jönköping,0683,6,57.094246,14.047422,jönköping värnamo
+umeå,västerbotten,2480,24,63.839675,20.475946,västerbotten umeå
+österåker,stockholm,0117,1,59.47179000000001,18.239194,stockholm österåker
+leksand,dalarna,2029,20,60.825635,14.99458,dalarna leksand
+storuman,västerbotten,2421,24,65.713176,15.282744,västerbotten storuman
+heby,uppsala,0331,3,60.154562,16.92751,uppsala heby
+växjö,kronoberg,0780,7,56.76989200000001,14.823869,kronoberg växjö
+årjäng,värmland,1765,17,59.509315,11.842519,värmland årjäng
+bollebygd,västra götaland,1443,14,57.797309,12.63476,västra götaland bollebygd
+töreboda,västra götaland,1473,14,58.70810600000001,14.123973,västra götaland töreboda
+kalix,norrbotten,2514,25,65.913129,22.647827,norrbotten kalix
+gnosjö,västra götaland,0617,6,58.309948,13.073277,västra götaland gnosjö
+åmål,västra götaland,1492,14,58.971904,12.64486,västra götaland åmål
+mark,västra götaland,1463,14,57.580985,12.354719,västra götaland mark
+stenungsund,västra götaland,1415,14,58.084444,11.956919,västra götaland stenungsund
+tranemo,västra götaland,1452,14,57.474595,13.263325,västra götaland tranemo
+hagfors,värmland,1783,17,60.02476600000001,13.619007,värmland hagfors
+eskilstuna,västra götaland,0484,4,58.839547,11.07948,västra götaland eskilstuna
+uddevalla,västra götaland,1485,14,58.34905500000001,11.938285,västra götaland uddevalla
+sunne,värmland,1766,17,59.945983,12.910784,värmland sunne
+falkenberg,halland,1382,13,57.136086,12.715631,halland falkenberg
+mariestad,västra götaland,1493,14,58.666834,13.856476999999998,västra götaland mariestad
+kramfors,västernorrland,2282,22,63.01821999999999,18.141902,västernorrland kramfors
+ulricehamn,västra götaland,1491,14,57.811217000000006,13.444322,västra götaland ulricehamn
+linköping,östergötland,0580,5,58.13296999999999,15.394375,östergötland linköping
+uppsala,uppsala,0380,3,59.815944,17.659876999999994,uppsala uppsala
+härjedalen,jämtland,2361,23,62.023158,14.365271,jämtland härjedalen
+skövde,västra götaland,1496,14,58.473624,13.928527,västra götaland skövde
+umeå,västerbotten,2480,24,63.825656,20.263074,västerbotten umeå
+karlsborg,västra götaland,1446,14,58.656896,14.398847,västra götaland karlsborg
+åre,jämtland,2321,23,63.314686,13.242053,jämtland åre
+hylte,halland,1315,13,56.954534,13.528479999999998,halland hylte
+trollhättan,västra götaland,1488,14,58.158264,12.304859,västra götaland trollhättan
+tierp,uppsala,0360,3,60.202035,17.180220000000002,uppsala tierp
+uppsala,uppsala,0380,3,59.859412,17.64112,uppsala uppsala
+tingsryd,kronoberg,0763,7,56.53176,14.8141,kronoberg tingsryd
+skellefteå,västerbotten,2482,24,64.708124,21.176686,västerbotten skellefteå
+uddevalla,västra götaland,1485,14,58.333811,11.786892,västra götaland uddevalla
+helsingborg,skåne,1283,12,56.215747,12.780708,skåne helsingborg
+smedjebacken,uppsala,2061,20,59.769675,16.861097,uppsala smedjebacken
+vadstena,östergötland,0584,5,58.431081000000006,14.780762,östergötland vadstena
+vaggeryd,jönköping,0665,6,57.498057,14.148478,jönköping vaggeryd
+trosa,södermanland,0488,4,58.94688000000001,17.495592000000002,södermanland trosa
+gävle,gävleborg,2180,21,60.64477700000001,17.012276,gävleborg gävle
+valdemarsvik,östergötland,0563,5,58.20259,16.603219,östergötland valdemarsvik
+varberg,halland,1383,13,57.171131,12.381098,halland varberg
+bromölla,skåne,1272,12,56.064597,14.544245000000002,skåne bromölla
+katrineholm,västernorrland,0483,4,62.390683,17.165769,västernorrland katrineholm
+karlstad,värmland,1780,17,59.477358,13.584232,värmland karlstad
+laholm,halland,1381,13,56.46762800000001,13.024907,halland laholm
+kungsbacka,halland,1384,13,57.472678,11.999076,halland kungsbacka
+vallentuna,stockholm,0115,1,59.533224,18.07645,stockholm vallentuna
+lund,skåne,1281,12,55.74075300000001,13.173056,skåne lund
+bollnäs,dalarna,2183,21,60.417512,15.358189,dalarna bollnäs
+söderhamn,gävleborg,2182,21,61.184365,17.176344,gävleborg söderhamn
+helsingborg,skåne,1283,12,55.962267,12.858315,skåne helsingborg
+kungsör,västmanland,1960,19,59.444012,15.949726,västmanland kungsör
+hässleholm,skåne,1293,12,56.200364,13.741501,skåne hässleholm
+söderhamn,gävleborg,2182,21,61.2608,16.788084,gävleborg söderhamn
+vansbro,dalarna,2021,20,60.461057,14.259809,dalarna vansbro
+strängnäs,södermanland,0486,4,59.405653,16.940407,södermanland strängnäs
+krokom,jämtland,2309,23,63.33550500000001,14.215024,jämtland krokom
+vara,västra götaland,1470,14,58.249026,13.101598,västra götaland vara
+varberg,halland,1383,13,57.105741,12.250294,halland varberg
+orust,västra götaland,1421,14,58.12534399999999,11.719767,västra götaland orust
+vänersborg,västra götaland,1487,14,58.358103,12.400362,västra götaland vänersborg
+skara,västra götaland,1495,14,58.385343000000006,13.650570000000002,västra götaland skara
+falköping,västra götaland,1499,14,58.09606700000001,13.632775,västra götaland falköping
+kalmar,kalmar,0880,8,56.59853199999999,16.164912,kalmar kalmar
+uppsala,uppsala,0380,3,60.01905,17.732792,uppsala uppsala
+sundsvall,västernorrland,2281,22,62.365063,17.033804999999994,västernorrland sundsvall
+mora,dalarna,2062,20,61.047784,14.594616,dalarna mora
+södertälje,stockholm,0181,1,59.243867,17.582851,stockholm södertälje
+vaxholm,stockholm,0187,1,59.400907,18.290323,stockholm vaxholm
+lund,skåne,1281,12,55.633499,13.492564000000002,skåne lund
+varberg,halland,1383,13,57.266395,12.330372,halland varberg
+lindesberg,örebro,1885,18,59.52470600000001,15.297993,örebro lindesberg
+vara,västra götaland,1470,14,58.171041,12.995567,västra götaland vara
+ulricehamn,västra götaland,1491,14,57.67886,13.374226,västra götaland ulricehamn
+laholm,halland,1381,13,56.554025,13.076164,halland laholm
+trollhättan,västra götaland,1488,14,58.22871800000001,12.310233,västra götaland trollhättan
+vellinge,skåne,1233,12,55.470895,13.019944,skåne vellinge
+härjedalen,jämtland,2361,23,62.44516700000001,13.86282,jämtland härjedalen
+hultsfred,västra götaland,0860,8,57.859463,11.874712,västra götaland hultsfred
+mora,dalarna,2062,20,60.952753,13.910920999999998,dalarna mora
+falkenberg,halland,1382,13,56.978627,12.658665,halland falkenberg
+vetlanda,jönköping,0685,6,57.426017,15.087022,jönköping vetlanda
+gotland,gotland,0980,9,57.603836,18.249661,gotland gotland
+mörbylånga,kalmar,0840,8,56.581931,16.458896,kalmar mörbylånga
+huddinge,stockholm,0126,1,59.19716500000001,18.059693,stockholm huddinge
+älvsbyn,norrbotten,2560,25,65.833605,20.520088,norrbotten älvsbyn
+hammarö,värmland,1761,17,59.341977,13.453335999999998,värmland hammarö
+sundsvall,västernorrland,2281,22,62.306101,17.254139000000002,västernorrland sundsvall
+rättvik,dalarna,2031,20,60.910639,15.023776000000002,dalarna rättvik
+höganäs,jönköping,1284,12,57.806428,13.883746,jönköping höganäs
+linköping,östergötland,0580,5,58.38324100000001,15.433245,östergötland linköping
+hedemora,dalarna,2083,20,60.299009,15.831051,dalarna hedemora
+simrishamn,uppsala,1291,12,59.736383,17.462543,uppsala simrishamn
+ovanåker,gävleborg,2121,21,61.337522,15.952948,gävleborg ovanåker
+vilhelmina,västerbotten,2462,24,64.625718,16.654162,västerbotten vilhelmina
+halmstad,halland,1380,13,56.69436,12.696605,halland halmstad
+olofström,blekinge,1060,10,56.354337,14.482624,blekinge olofström
+vimmerby,kalmar,0884,8,57.678134,15.791723,kalmar vimmerby
+falkenberg,halland,1382,13,56.947054,12.542938,halland falkenberg
+falkenberg,halland,1382,13,56.93056899999999,12.547963,halland falkenberg
+vindeln,västerbotten,2404,24,64.202481,19.717752,västerbotten vindeln
+orust,västra götaland,1421,14,58.29920300000001,11.691718,västra götaland orust
+vingåker,södermanland,0428,4,59.043372,15.871556,södermanland vingåker
+lidköping,västra götaland,1494,14,58.453754,13.260210999999998,västra götaland lidköping
+kristianstad,skåne,1290,12,56.056175,14.087879999999998,skåne kristianstad
+hässleholm,skåne,1293,12,56.102213,13.909576,skåne hässleholm
+malmö,skåne,1280,12,55.552977,12.962067,skåne malmö
+lekeberg,örebro,1814,18,59.255355,14.961854999999998,örebro lekeberg
+mora,dalarna,2062,20,60.967894,14.540253,dalarna mora
+surahammar,västmanland,1907,19,59.871368,16.048057,västmanland surahammar
+hultsfred,kalmar,0860,8,57.316854000000006,15.586853,kalmar hultsfred
+gotland,gotland,0980,9,57.637936,18.297982,gotland gotland
+borås,västra götaland,1490,14,57.63075,12.849207,västra götaland borås
+alvesta,kronoberg,0764,7,56.787226,14.451583,kronoberg alvesta
+emmaboda,kalmar,0862,8,56.535523,15.586146,kalmar emmaboda
+älvsbyn,norrbotten,2560,25,65.692846,20.648637,norrbotten älvsbyn
+sundsvall,västernorrland,2281,22,62.428333,17.418437,västernorrland sundsvall
+simrishamn,skåne,1291,12,55.684977,14.153547,skåne simrishamn
+kiruna,norrbotten,2584,25,67.678286,21.650187,norrbotten kiruna
+ljungby,kronoberg,0781,7,56.970755,13.946791,kronoberg ljungby
+heby,uppsala,0331,3,59.904332,17.061062,uppsala heby
+boden,norrbotten,2582,25,65.850234,21.590291,norrbotten boden
+hässleholm,skåne,1293,12,56.341923,13.665492,skåne hässleholm
+kristianstad,skåne,1290,12,55.85730600000001,14.147398,skåne kristianstad
+sjöbo,skåne,1265,12,55.70544200000001,13.790057999999998,skåne sjöbo
+nyköping,södermanland,0480,4,58.860158,16.698263,södermanland nyköping
+hallsberg,örebro,1861,18,59.023555,14.866828,örebro hallsberg
+sävsjö,jönköping,0684,6,57.354616,14.474132,jönköping sävsjö
+göteborg,västra götaland,1480,14,57.575646,11.785133,västra götaland göteborg
+jokkmokk,norrbotten,2510,25,66.42956,20.602417000000006,norrbotten jokkmokk
+karlstad,värmland,1780,17,59.39538100000001,13.19347,värmland karlstad
+mora,dalarna,2062,20,61.11686,14.477964000000002,dalarna mora
+kristianstad,skåne,1290,12,56.182372,14.37371,skåne kristianstad
+uppsala,uppsala,0380,3,59.793512,17.622593,uppsala uppsala
+vårgårda,västra götaland,1442,14,58.031649,12.80904,västra götaland vårgårda
+botkyrka,stockholm,0127,1,59.16533,17.795928,stockholm botkyrka
+laholm,halland,1381,13,56.419302,13.115896,halland laholm
+tingsryd,kronoberg,0763,7,56.640268000000006,14.917504999999998,kronoberg tingsryd
+mjölby,östergötland,0586,5,58.311435,14.923642999999998,östergötland mjölby
+eslöv,skåne,1285,12,55.786782,13.241248,skåne eslöv
+haninge,stockholm,0136,1,59.112957,17.987988,stockholm haninge
+vänersborg,västra götaland,1487,14,58.443364,12.360981,västra götaland vänersborg
+trollhättan,västra götaland,1488,14,58.247085,12.42024,västra götaland trollhättan
+uppsala,uppsala,0380,3,59.85864599999999,17.430238,uppsala uppsala
+vännäs,västerbotten,2460,24,63.914888,19.824866,västerbotten vännäs
+vännäs,västerbotten,2460,24,63.940872,19.702571,västerbotten vännäs
+skövde,västra götaland,1496,14,58.51124300000001,13.960835,västra götaland skövde
+säffle,värmland,1785,17,59.181513,13.01479,värmland säffle
+värnamo,jönköping,0683,6,57.185213,14.041217,jönköping värnamo
+skövde,västra götaland,1496,14,58.349996,14.049270000000002,västra götaland skövde
+varberg,halland,1383,13,57.251126,12.180716,halland varberg
+karlstad,värmland,1780,17,59.38448199999999,13.852877,värmland karlstad
+gotland,gotland,0980,9,57.691178,18.420183,gotland gotland
+leksand,dalarna,2029,20,60.729444,14.945478,dalarna leksand
+motala,östergötland,0583,5,58.68333000000001,14.933329999999998,östergötland motala
+sandviken,örebro,2181,21,58.996866,15.379228,örebro sandviken
+hedemora,uppsala,2083,20,59.848114,17.516331,uppsala hedemora
+sala,västmanland,1981,19,59.94613,16.279683,västmanland sala
+haninge,stockholm,0136,1,59.122159,18.108596,stockholm haninge
+gotland,gotland,0980,9,57.58559200000001,18.227334,gotland gotland
+trosa,södermanland,0488,4,58.921333,17.447492,södermanland trosa
+linköping,östergötland,0580,5,58.422555,15.350139000000002,östergötland linköping
+älvdalen,dalarna,2039,20,61.212874,14.031354,dalarna älvdalen
+västervik,kalmar,0883,8,57.759418,16.638503,kalmar västervik
+västerås,västmanland,1980,19,59.611099,16.546367,västmanland västerås
+ragunda,jämtland,2303,23,63.02415300000001,16.63549,jämtland ragunda
+kungsbacka,halland,1384,13,57.421668,11.940857,halland kungsbacka
+söderköping,östergötland,0582,5,58.486862,16.172054,östergötland söderköping
+vellinge,skåne,1233,12,55.490469,13.112362,skåne vellinge
+kävlinge,skåne,1261,12,55.810902,13.051412,skåne kävlinge
+båstad,skåne,1278,12,56.41153900000001,12.743405,skåne båstad
+trelleborg,skåne,1287,12,55.39766700000001,13.102386,skåne trelleborg
+sunne,värmland,1766,17,59.727172,13.143214000000002,värmland sunne
+växjö,kronoberg,0780,7,56.878718000000006,14.809438,kronoberg växjö
+kristianstad,skåne,1290,12,55.88277,14.229382,skåne kristianstad
+sölvesborg,blekinge,1083,10,56.08896800000001,14.649451,blekinge sölvesborg
+laholm,halland,1381,13,56.493315,13.119966,halland laholm
+ystad,skåne,1286,12,55.432984,13.819655,skåne ystad
+härjedalen,jämtland,2361,23,62.177209,14.939436,jämtland härjedalen
+uppsala,uppsala,0380,3,59.775535,17.601377,uppsala uppsala
+umeå,västerbotten,2480,24,63.786928,19.984477,västerbotten umeå
+askersund,örebro,1882,18,58.815435,15.106626,örebro askersund
+gävle,gävleborg,2180,21,60.728651,17.126838,gävleborg gävle
+norrköping,östergötland,0581,5,58.662148,16.175925,östergötland norrköping
+kumla,uppsala,1881,18,60.043209,17.983401,uppsala kumla
+växjö,östergötland,0780,7,58.662148,16.175925,östergötland växjö
+kristianstad,skåne,1290,12,55.923516000000006,14.295522,skåne kristianstad
+burlöv,skåne,1231,12,55.876893,13.136220000000002,skåne burlöv
+österåker,stockholm,0117,1,59.482351,18.294398,stockholm österåker
+strängnäs,södermanland,0486,4,59.256441,17.108021,södermanland strängnäs
+nyköping,södermanland,0480,4,58.725042,16.580952,södermanland nyköping
+halmstad,halland,1380,13,56.74238100000001,12.947557000000002,halland halmstad
+värnamo,gotland,0683,6,57.612497,18.761462,gotland värnamo
+askersund,örebro,1882,18,58.86561,14.999192,örebro askersund
+eda,värmland,1730,17,59.762586,12.362227,värmland eda
+ockelbo,värmland,2101,21,59.705202,12.887207,värmland ockelbo
+kalmar,kalmar,0880,8,56.62769599999999,16.236805,kalmar kalmar
+örnsköldsvik,västernorrland,2284,22,63.18611,18.530696,västernorrland örnsköldsvik
+åmål,västra götaland,1492,14,58.969858,12.618004,västra götaland åmål
+ånge,västernorrland,2260,22,62.47397900000001,15.641942000000002,västernorrland ånge
+robertsfors,västerbotten,2409,24,65.279046,19.908666,västerbotten robertsfors
+åre,jämtland,2321,23,63.401088,13.082224,jämtland åre
+årjäng,värmland,1765,17,59.44244499999999,12.109184,värmland årjäng
+varberg,västra götaland,1383,13,58.667914,13.58461,västra götaland varberg
+falkenberg,värmland,1382,13,59.58356600000001,12.130192999999998,värmland falkenberg
+haninge,stockholm,0136,1,59.086226,18.165957,stockholm haninge
+sandviken,gävleborg,2181,21,60.515076,16.733418,gävleborg sandviken
+karlshamn,blekinge,1082,10,57.954798,13.65065,blekinge karlshamn
+växjö,västra götaland,0780,7,57.954798,13.65065,västra götaland växjö
+kungsbacka,jönköping,1384,13,58.00474499999999,14.604402,jönköping kungsbacka
+berg,jämtland,2326,23,62.645937,14.37056,jämtland berg
+falköping,västra götaland,1499,14,58.023848,13.568091,västra götaland falköping
+askersund,örebro,1882,18,58.99708,15.057334,örebro askersund
+varberg,örebro,1383,13,59.20616,15.575398000000002,örebro varberg
+uppvidinge,kronoberg,0760,7,57.169126,15.352502,kronoberg uppvidinge
+åsele,västerbotten,2463,24,64.200078,17.614134,västerbotten åsele
+mellerud,västra götaland,1461,14,58.80724300000001,12.419478,västra götaland mellerud
+sandviken,gävleborg,2181,21,60.64227800000001,16.554025,gävleborg sandviken
+krokom,halland,2309,23,57.049573,12.306622,halland krokom
+örkelljunga,skåne,1257,12,56.309388,13.374488,skåne örkelljunga
+åstorp,skåne,1277,12,56.135121,12.946246,skåne åstorp
+åtvidaberg,östergötland,0561,5,58.217336,16.140217,östergötland åtvidaberg
+härnösand,västernorrland,2280,22,62.673559,17.836039000000003,västernorrland härnösand
+töreboda,västra götaland,1473,14,58.813509,14.252111,västra götaland töreboda
+uppvidinge,västernorrland,0760,7,63.819109,18.425977,västernorrland uppvidinge
+nacka,stockholm,0182,1,59.266912,18.343347,stockholm nacka
+älmhult,kronoberg,0765,7,56.551288,14.139176,kronoberg älmhult
+norrtälje,stockholm,0188,1,59.971707,18.803142,stockholm norrtälje
+älvdalen,dalarna,2039,20,61.229898,14.037394,dalarna älvdalen
+älvkarleby,uppsala,0319,3,60.694577,17.695628,uppsala älvkarleby
+älvkarleby,stockholm,0319,3,59.353941000000006,18.094415,stockholm älvkarleby
+ekerö,dalarna,0125,1,60.586772,15.068918,dalarna ekerö
+värmdö,stockholm,0120,1,59.297232,18.640445,stockholm värmdö
+älvsbyn,norrbotten,2560,25,65.737266,20.681897,norrbotten älvsbyn
+falkenberg,halland,1382,13,57.241455,12.866472,halland falkenberg
+ale,västra götaland,1440,14,57.957664,12.118833,västra götaland ale
+krokom,jämtland,2309,23,63.458115,14.064932,jämtland krokom
+ängelholm,skåne,1292,12,56.232247,12.997921,skåne ängelholm
+ängelholm,skåne,1292,12,56.242922,12.861937,skåne ängelholm
+nässjö,jönköping,0682,6,57.695571,14.566670000000002,jönköping nässjö
+östersund,jämtland,2380,23,63.14360500000001,14.752784,jämtland östersund
+värmdö,stockholm,0120,1,59.240578,18.530325,stockholm värmdö
+vansbro,dalarna,2021,20,60.485884,14.013851999999998,dalarna vansbro
+eskilstuna,södermanland,0484,4,59.282521,16.676984,södermanland eskilstuna
+katrineholm,södermanland,0483,4,59.147598,16.068838,södermanland katrineholm
+borås,västra götaland,1490,14,57.755126,13.178227,västra götaland borås
+sjöbo,skåne,1265,12,55.609573,13.918975,skåne sjöbo
+falkenberg,västra götaland,1382,13,57.56431,13.12459,västra götaland falkenberg
+trosa,södermanland,0488,4,58.869822,17.572178,södermanland trosa
+norrköping,östergötland,0581,5,58.540714,16.183652,östergötland norrköping
+öckerö,västra götaland,1407,14,57.7279,11.423683,västra götaland öckerö
+färgelanda,västra götaland,1439,14,58.545129,11.971767,västra götaland färgelanda
+ödeshög,östergötland,0509,5,58.22459300000001,14.662207,östergötland ödeshög
+kungälv,västra götaland,1482,14,57.915144,11.800024,västra götaland kungälv
+stenungsund,västra götaland,1415,14,58.110845,11.856059,västra götaland stenungsund
+helsingborg,skåne,1283,12,56.10335,12.749927,skåne helsingborg
+jönköping,jönköping,0680,6,57.723374,14.383571,jönköping jönköping
+partille,västra götaland,1402,14,57.703826,12.143091,västra götaland partille
+örebro,örebro,1880,18,59.389639,15.244761,örebro örebro
+kristinehamn,värmland,1781,17,59.36209399999999,14.009947,värmland kristinehamn
+jönköping,jönköping,0680,6,57.926612,14.397633,jönköping jönköping
+ekerö,stockholm,0125,1,59.400148,17.655159,stockholm ekerö
+hörby,skåne,1266,12,55.786116,13.87089,skåne hörby
+kristianstad,skåne,1290,12,56.055872,14.023399,skåne kristianstad
+tierp,uppsala,0360,3,60.226932,17.705628,uppsala tierp
+örebro,örebro,1880,18,59.274737,15.214998,örebro örebro
+östhammar,uppsala,0382,3,60.338115,18.442181,uppsala östhammar
+örkelljunga,skåne,1257,12,56.283976,13.278452,skåne örkelljunga
+örnsköldsvik,västernorrland,2284,22,63.288861,18.71602,västernorrland örnsköldsvik
+jönköping,jönköping,0680,6,58.010109,14.572033,jönköping jönköping
+nybro,skåne,0881,8,55.466552,13.564822,skåne nybro
+lidköping,västra götaland,1494,14,58.50881800000001,13.004258,västra götaland lidköping
+enköping,uppsala,0381,3,59.73197800000001,17.302278,uppsala enköping
+enköping,uppsala,0381,3,59.73197800000001,17.302278,uppsala enköping
+västerås,västra götaland,1980,19,57.681304,11.952412,västra götaland västerås
+eslöv,skåne,1285,12,55.778322,13.243988,skåne eslöv
+skellefteå,västerbotten,2482,24,64.668952,21.179696,västerbotten skellefteå
+nynäshamn,stockholm,0192,1,58.982826,17.896191,stockholm nynäshamn
+ängelholm,skåne,1292,12,56.22861,13.031806,skåne ängelholm
+vårgårda,västra götaland,1442,14,58.023946,12.637291,västra götaland vårgårda
+hallsberg,västerbotten,1861,18,63.960035,20.029861,västerbotten hallsberg
+östhammar,uppsala,0382,3,60.195936,17.901448000000006,uppsala östhammar
+ydre,östergötland,0512,5,57.824795,15.275396,östergötland ydre
+sandviken,gävleborg,2181,21,60.305626,16.800194,gävleborg sandviken
+kristianstad,skåne,1290,12,56.096288,14.245903,skåne kristianstad
+motala,östergötland,0583,5,58.519297,15.176064000000002,östergötland motala
+östersund,jämtland,2380,23,63.179365,14.635706,jämtland östersund
+heby,uppsala,0331,3,60.18093199999999,17.178084,uppsala heby
+östhammar,uppsala,0382,3,60.259016,18.373658,uppsala östhammar
+ragunda,jämtland,2303,23,63.02415300000001,16.63549,jämtland ragunda
+svenljunga,västra götaland,1465,14,57.343315,13.029861,västra götaland svenljunga
+vellinge,skåne,1233,12,55.467549,13.135778,skåne vellinge
+norrköping,östergötland,0581,5,58.5769,16.563881,östergötland norrköping
+södertälje,stockholm,0181,1,59.11049499999999,17.560215,stockholm södertälje
+båstad,skåne,1278,12,56.423867,12.943154,skåne båstad
+klippan,skåne,1276,12,56.191351,13.064778,skåne klippan
+söderköping,östergötland,0582,5,58.404927,16.164527,östergötland söderköping
+kristianstad,skåne,1290,12,55.88595600000001,14.015647,skåne kristianstad
+simrishamn,skåne,1291,12,55.53791700000001,14.234369,skåne simrishamn
+simrishamn,skåne,1291,12,55.58293199999999,14.232582999999998,skåne simrishamn
+umeå,dalarna,2480,24,60.781072,15.040524,dalarna umeå
+gävle,gävleborg,2180,21,60.61614,16.973445,gävleborg gävle
+överkalix,norrbotten,2513,25,66.492048,22.604758,norrbotten överkalix
+svenljunga,västra götaland,1465,14,57.349794,12.895822,västra götaland svenljunga
+övertorneå,norrbotten,2518,25,66.390045,23.655002,norrbotten övertorneå
+västervik,kalmar,0883,8,57.988748,16.314315,kalmar västervik
+mark,västra götaland,1463,14,57.39474499999999,12.804626,västra götaland mark
+lerum,västra götaland,1441,14,57.73761800000001,12.274383,västra götaland lerum
